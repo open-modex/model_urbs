@@ -1,0 +1,1255 @@
+id;scenario_id;region;input_energy_vector;output_energy_vector;parameter_name;technology;technology_type;value;unit;tags;method;source;comment;year
+1;58;["BB"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+2;58;["BB"];air;electricity;capacity;wind turbine;onshore;5.70003;GW;;"{""value"": ""aggregated""}";urbs;;2016
+3;58;["BB"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+4;58;["BB"];biogas;electricity;capacity;generator;combustion engine;0.264;GW;;"{""value"": ""aggregated""}";urbs;;2016
+5;58;["BB"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+6;58;["BB"];biomass;electricity;capacity;generator;steam;0.428;GW;;"{""value"": ""aggregated""}";urbs;;2016
+7;58;["BB"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+8;58;["BB"];light oil;electricity;capacity;chp;gas;0.00021;GW;;"{""value"": ""aggregated""}";urbs;;2016
+9;58;["BB"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+10;58;["BB"];light oil;electricity;capacity;generator;gas;0.03791;GW;;"{""value"": ""aggregated""}";urbs;;2016
+11;58;["BB"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+12;58;["BB"];lignite;electricity;capacity;chp;steam;4.596;GW;;"{""value"": ""aggregated""}";urbs;;2016
+13;58;["BB"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+14;58;["BB"];natural gas;electricity;capacity;chp;combined cycle;0.19093;GW;;"{""value"": ""aggregated""}";urbs;;2016
+15;58;["BB"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+16;58;["BB"];natural gas;electricity;capacity;chp;combustion engine;0.0512;GW;;"{""value"": ""aggregated""}";urbs;;2016
+17;58;["BB"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+18;58;["BB"];natural gas;electricity;capacity;chp;gas;0.0464;GW;;"{""value"": ""aggregated""}";urbs;;2016
+19;58;["BB"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+20;58;["BB"];natural gas;electricity;capacity;generator;combined cycle;0.24431;GW;;"{""value"": ""aggregated""}";urbs;;2016
+21;58;["BB"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+22;58;["BB"];natural gas;electricity;capacity;generator;combustion engine;0.00772;GW;;"{""value"": ""aggregated""}";urbs;;2016
+23;58;["BB"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+24;58;["BB"];natural gas;electricity;capacity;generator;gas;0.3302;GW;;"{""value"": ""aggregated""}";urbs;;2016
+25;58;["BB"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+26;58;["BB"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.29597;GW;;"{""value"": ""aggregated""}";urbs;;2016
+27;58;["BB"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+28;58;["BB"];solar radiation;electricity;capacity;photovoltaics;utility;2.4402;GW;;"{""value"": ""aggregated""}";urbs;;2016
+29;58;["BB"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+30;58;["BB"];waste;electricity;capacity;chp;steam;0.1612;GW;;"{""value"": ""aggregated""}";urbs;;2016
+31;58;["BB"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+32;58;["BB"];waste;electricity;capacity;generator;steam;0.0036;GW;;"{""value"": ""aggregated""}";urbs;;2016
+33;58;["BB"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+34;58;["BB"];water;electricity;capacity;hydro turbine;run-of-river;0.00358;GW;;"{""value"": ""aggregated""}";urbs;;2016
+35;58;["BB"];air;electricity;electricity generation;wind turbine;onshore;8060.653812;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+36;58;["BB"];air;electricity;primary energy consumption;wind turbine;onshore;8060653.812;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+37;58;["BB"];biogas;electricity;electricity generation;generator;combustion engine;1010.877521;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+38;58;["BB"];biogas;electricity;primary energy consumption;generator;combustion engine;2406851.241;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+39;58;["BB"];biomass;electricity;electricity generation;generator;steam;1470.43568;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+40;58;["BB"];biomass;electricity;primary energy consumption;generator;steam;9802904.532;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+41;58;["BB"];lignite;electricity;electricity generation;chp;steam;38341.72994;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+42;58;["BB"];lignite;electricity;emissions;chp;steam;0.03263126;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+43;58;["BB"];lignite;electricity;primary energy consumption;chp;steam;81578148.82;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+44;58;["BB"];natural gas;electricity;electricity generation;generator;combined cycle;54.07752457;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+45;58;["BB"];natural gas;electricity;emissions;generator;combined cycle;1.86E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+46;58;["BB"];natural gas;electricity;primary energy consumption;generator;combined cycle;93237.11132;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+47;58;["BB"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;315.7514509;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+48;58;["BB"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;315751.4509;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+49;58;["BB"];solar radiation;electricity;electricity generation;photovoltaics;utility;2603.293207;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+50;58;["BB"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;2603293.207;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+51;58;["BB"];waste;electricity;electricity generation;generator;steam;0.885600823;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+52;58;["BB"];waste;electricity;emissions;generator;steam;1.04E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+53;58;["BB"];waste;electricity;primary energy consumption;generator;steam;3162.860081;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+54;58;["BB"];water;electricity;electricity generation;hydro turbine;run-of-river;15.68558828;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+55;58;["BB"];water;electricity;primary energy consumption;hydro turbine;run-of-river;15685.58828;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+56;58;["BB"];electricity;electricity;input energy;storage;all;12.31801135;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+57;58;["BB"];electricity;electricity;output energy;storage;all;11.70950159;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+58;58;["BB"];electricity;electricity;losses;storage;all;0.608509761;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+59;58;["BB", "BE"];electricity;electricity;energy flow;transmission;HVAC;10714.97877;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+60;58;["BB", "SN"];electricity;electricity;energy flow;transmission;HVAC;8506.328637;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+61;58;["BB", "ST"];electricity;electricity;energy flow;transmission;HVAC;8952.30101;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+62;58;["BB", "BE"];electricity;electricity;losses;transmission;HVAC;321449.3632;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+63;58;["BB", "MV"];electricity;electricity;losses;transmission;HVAC;9727.510684;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+64;58;["BB", "SN"];electricity;electricity;losses;transmission;HVAC;255530.7647;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+65;58;["BB", "ST"];electricity;electricity;losses;transmission;HVAC;271041.4907;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+66;58;["BE"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+67;58;["BE"];air;electricity;capacity;wind turbine;onshore;0.011;GW;;"{""value"": ""aggregated""}";urbs;;2016
+68;58;["BE"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+69;58;["BE"];biogas;electricity;capacity;generator;combustion engine;0.001;GW;;"{""value"": ""aggregated""}";urbs;;2016
+70;58;["BE"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+71;58;["BE"];biomass;electricity;capacity;generator;steam;0.045;GW;;"{""value"": ""aggregated""}";urbs;;2016
+72;58;["BE"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+73;58;["BE"];hard coal;electricity;capacity;chp;steam;0.7865;GW;;"{""value"": ""aggregated""}";urbs;;2016
+74;58;["BE"];heat;electricity;added capacity;geothermal;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+75;58;["BE"];heat;electricity;capacity;geothermal;unknown;4.50E-06;GW;;"{""value"": ""aggregated""}";urbs;;2016
+76;58;["BE"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+77;58;["BE"];light oil;electricity;capacity;chp;gas;0.27657;GW;;"{""value"": ""aggregated""}";urbs;;2016
+78;58;["BE"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+79;58;["BE"];light oil;electricity;capacity;generator;gas;0.12143;GW;;"{""value"": ""aggregated""}";urbs;;2016
+80;58;["BE"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+81;58;["BE"];natural gas;electricity;capacity;chp;combined cycle;0.17937;GW;;"{""value"": ""aggregated""}";urbs;;2016
+82;58;["BE"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+83;58;["BE"];natural gas;electricity;capacity;chp;combustion engine;0.04658;GW;;"{""value"": ""aggregated""}";urbs;;2016
+84;58;["BE"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+85;58;["BE"];natural gas;electricity;capacity;chp;gas;0.50292;GW;;"{""value"": ""aggregated""}";urbs;;2016
+86;58;["BE"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+87;58;["BE"];natural gas;electricity;capacity;generator;combustion engine;0.0012;GW;;"{""value"": ""aggregated""}";urbs;;2016
+88;58;["BE"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+89;58;["BE"];natural gas;electricity;capacity;generator;gas;0.00418;GW;;"{""value"": ""aggregated""}";urbs;;2016
+90;58;["BE"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+91;58;["BE"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.0428;GW;;"{""value"": ""aggregated""}";urbs;;2016
+92;58;["BE"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+93;58;["BE"];solar radiation;electricity;capacity;photovoltaics;utility;0.04219;GW;;"{""value"": ""aggregated""}";urbs;;2016
+94;58;["BE"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+95;58;["BE"];waste;electricity;capacity;generator;steam;0.0067;GW;;"{""value"": ""aggregated""}";urbs;;2016
+96;58;["BE"];air;electricity;electricity generation;wind turbine;onshore;11.81447918;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+97;58;["BE"];air;electricity;primary energy consumption;wind turbine;onshore;11814.47918;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+98;58;["BE"];biomass;electricity;electricity generation;generator;steam;4.178561182;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+99;58;["BE"];biomass;electricity;primary energy consumption;generator;steam;27857.07454;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+100;58;["BE"];hard coal;electricity;electricity generation;chp;steam;2571.759419;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+101;58;["BE"];hard coal;electricity;emissions;chp;steam;0.001784486;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+102;58;["BE"];hard coal;electricity;primary energy consumption;chp;steam;5248488.61;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+103;58;["BE"];heat;electricity;electricity generation;geothermal;unknown;0.039528;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+104;58;["BE"];heat;electricity;primary energy consumption;geothermal;unknown;171.8608696;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+105;58;["BE"];natural gas;electricity;electricity generation;chp;combined cycle;0.063103329;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+106;58;["BE"];natural gas;electricity;emissions;chp;combined cycle;2.52E-08;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+107;58;["BE"];natural gas;electricity;primary energy consumption;chp;combined cycle;126.2066575;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+108;58;["BE"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;45.4470088;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+109;58;["BE"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;45447.0088;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+110;58;["BE"];solar radiation;electricity;electricity generation;photovoltaics;utility;44.79928274;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+111;58;["BE"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;44799.28274;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+112;58;["BE"];waste;electricity;electricity generation;generator;steam;3.404977967;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+113;58;["BE"];waste;electricity;emissions;generator;steam;4.01E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+114;58;["BE"];waste;electricity;primary energy consumption;generator;steam;12160.6356;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+115;58;["BE"];electricity;electricity;input energy;storage;all;2.24561478;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+116;58;["BE"];electricity;electricity;output energy;storage;all;2.134681409;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+117;58;["BE"];electricity;electricity;losses;storage;all;0.11093337;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+118;58;["BW"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+119;58;["BW"];air;electricity;capacity;wind turbine;onshore;0.75103;GW;;"{""value"": ""aggregated""}";urbs;;2016
+120;58;["BW"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+121;58;["BW"];biogas;electricity;capacity;generator;combustion engine;0.408;GW;;"{""value"": ""aggregated""}";urbs;;2016
+122;58;["BW"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+123;58;["BW"];biomass;electricity;capacity;generator;steam;0.759;GW;;"{""value"": ""aggregated""}";urbs;;2016
+124;58;["BW"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+125;58;["BW"];hard coal;electricity;capacity;chp;steam;4.5793;GW;;"{""value"": ""aggregated""}";urbs;;2016
+126;58;["BW"];hard coal;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+127;58;["BW"];hard coal;electricity;capacity;generator;steam;0.919;GW;;"{""value"": ""aggregated""}";urbs;;2016
+128;58;["BW"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+129;58;["BW"];light oil;electricity;capacity;chp;gas;0.04807;GW;;"{""value"": ""aggregated""}";urbs;;2016
+130;58;["BW"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+131;58;["BW"];light oil;electricity;capacity;generator;gas;0.77394;GW;;"{""value"": ""aggregated""}";urbs;;2016
+132;58;["BW"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+133;58;["BW"];lignite;electricity;capacity;chp;steam;0.0015;GW;;"{""value"": ""aggregated""}";urbs;;2016
+134;58;["BW"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+135;58;["BW"];natural gas;electricity;capacity;chp;combined cycle;0.4094;GW;;"{""value"": ""aggregated""}";urbs;;2016
+136;58;["BW"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+137;58;["BW"];natural gas;electricity;capacity;chp;combustion engine;0.48558;GW;;"{""value"": ""aggregated""}";urbs;;2016
+138;58;["BW"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+139;58;["BW"];natural gas;electricity;capacity;chp;gas;0.23235;GW;;"{""value"": ""aggregated""}";urbs;;2016
+140;58;["BW"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+141;58;["BW"];natural gas;electricity;capacity;generator;combined cycle;0.12533;GW;;"{""value"": ""aggregated""}";urbs;;2016
+142;58;["BW"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+143;58;["BW"];natural gas;electricity;capacity;generator;combustion engine;0.06994;GW;;"{""value"": ""aggregated""}";urbs;;2016
+144;58;["BW"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+145;58;["BW"];natural gas;electricity;capacity;generator;gas;0.66309;GW;;"{""value"": ""aggregated""}";urbs;;2016
+146;58;["BW"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+147;58;["BW"];solar radiation;electricity;capacity;photovoltaics;rooftop;3.27439;GW;;"{""value"": ""aggregated""}";urbs;;2016
+148;58;["BW"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+149;58;["BW"];solar radiation;electricity;capacity;photovoltaics;utility;3.64701;GW;;"{""value"": ""aggregated""}";urbs;;2016
+150;58;["BW"];uranium;electricity;added capacity;nuclear;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+151;58;["BW"];uranium;electricity;capacity;nuclear;unknown;2.868;GW;;"{""value"": ""aggregated""}";urbs;;2016
+152;58;["BW"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+153;58;["BW"];waste;electricity;capacity;chp;steam;0.04514;GW;;"{""value"": ""aggregated""}";urbs;;2016
+154;58;["BW"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+155;58;["BW"];waste;electricity;capacity;generator;steam;0.01363;GW;;"{""value"": ""aggregated""}";urbs;;2016
+156;58;["BW"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+157;58;["BW"];water;electricity;capacity;hydro turbine;run-of-river;0.68481;GW;;"{""value"": ""aggregated""}";urbs;;2016
+158;58;["BW"];air;electricity;electricity generation;wind turbine;onshore;706.2058721;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+159;58;["BW"];air;electricity;primary energy consumption;wind turbine;onshore;706205.8721;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+160;58;["BW"];biogas;electricity;electricity generation;generator;combustion engine;631.7984506;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+161;58;["BW"];biogas;electricity;primary energy consumption;generator;combustion engine;1504282.025;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+162;58;["BW"];biomass;electricity;electricity generation;generator;steam;2275.644419;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+163;58;["BW"];biomass;electricity;primary energy consumption;generator;steam;15170962.8;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+164;58;["BW"];hard coal;electricity;electricity generation;chp;steam;34876.0693;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+165;58;["BW"];hard coal;electricity;emissions;chp;steam;0.024199722;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+166;58;["BW"];hard coal;electricity;primary energy consumption;chp;steam;71175651.64;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+167;58;["BW"];hard coal;electricity;electricity generation;generator;steam;6018.01424;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+168;58;["BW"];hard coal;electricity;emissions;generator;steam;0.004175765;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+169;58;["BW"];hard coal;electricity;primary energy consumption;generator;steam;12281661.71;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+170;58;["BW"];lignite;electricity;electricity generation;chp;steam;13.1535;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+171;58;["BW"];lignite;electricity;emissions;chp;steam;1.12E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+172;58;["BW"];lignite;electricity;primary energy consumption;chp;steam;27986.17021;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+173;58;["BW"];natural gas;electricity;electricity generation;chp;combined cycle;26.88945091;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+174;58;["BW"];natural gas;electricity;emissions;chp;combined cycle;1.08E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+175;58;["BW"];natural gas;electricity;primary energy consumption;chp;combined cycle;53778.90181;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+176;58;["BW"];natural gas;electricity;electricity generation;generator;combined cycle;95.56854612;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+177;58;["BW"];natural gas;electricity;emissions;generator;combined cycle;3.30E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+178;58;["BW"];natural gas;electricity;primary energy consumption;generator;combined cycle;164773.3554;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+179;58;["BW"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;3802.084619;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+180;58;["BW"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;3802084.619;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+181;58;["BW"];solar radiation;electricity;electricity generation;photovoltaics;utility;4234.755367;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+182;58;["BW"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;4234755.367;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+183;58;["BW"];uranium;electricity;electricity generation;nuclear;unknown;25192.512;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+184;58;["BW"];uranium;electricity;primary energy consumption;nuclear;unknown;76340945.45;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+185;58;["BW"];waste;electricity;electricity generation;generator;steam;12.055211;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+186;58;["BW"];waste;electricity;emissions;generator;steam;1.42E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+187;58;["BW"];waste;electricity;primary energy consumption;generator;steam;43054.325;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+188;58;["BW"];water;electricity;electricity generation;hydro turbine;run-of-river;4794.217824;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+189;58;["BW"];water;electricity;primary energy consumption;hydro turbine;run-of-river;4794217.824;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+190;58;["BW"];electricity;electricity;input energy;storage;all;205.4126216;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+191;58;["BW"];electricity;electricity;output energy;storage;all;154.0594662;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+192;58;["BW"];electricity;electricity;losses;storage;all;51.35315541;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+193;58;["BW", "BY"];electricity;electricity;energy flow;transmission;HVAC;4405.462766;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+194;58;["BW", "HE"];electricity;electricity;energy flow;transmission;HVAC;974.2687476;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+195;58;["BW", "RP"];electricity;electricity;energy flow;transmission;HVAC;2474.915213;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+196;58;["BW", "BY"];electricity;electricity;losses;transmission;HVAC;139962.3938;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+197;58;["BW", "HE"];electricity;electricity;losses;transmission;HVAC;53565.0863;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+198;58;["BW", "RP"];electricity;electricity;losses;transmission;HVAC;110471.6418;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+199;58;["BY"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+200;58;["BY"];air;electricity;capacity;wind turbine;onshore;1.85403;GW;;"{""value"": ""aggregated""}";urbs;;2016
+201;58;["BY"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+202;58;["BY"];biogas;electricity;capacity;generator;combustion engine;1.097;GW;;"{""value"": ""aggregated""}";urbs;;2016
+203;58;["BY"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+204;58;["BY"];biomass;electricity;capacity;generator;steam;1.479;GW;;"{""value"": ""aggregated""}";urbs;;2016
+205;58;["BY"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+206;58;["BY"];hard coal;electricity;capacity;chp;steam;0.88461;GW;;"{""value"": ""aggregated""}";urbs;;2016
+207;58;["BY"];heat;electricity;added capacity;geothermal;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+208;58;["BY"];heat;electricity;capacity;geothermal;unknown;0.02008;GW;;"{""value"": ""aggregated""}";urbs;;2016
+209;58;["BY"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+210;58;["BY"];light oil;electricity;capacity;chp;gas;0.03011;GW;;"{""value"": ""aggregated""}";urbs;;2016
+211;58;["BY"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+212;58;["BY"];light oil;electricity;capacity;generator;gas;0.58035;GW;;"{""value"": ""aggregated""}";urbs;;2016
+213;58;["BY"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+214;58;["BY"];lignite;electricity;capacity;chp;steam;0.00186;GW;;"{""value"": ""aggregated""}";urbs;;2016
+215;58;["BY"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+216;58;["BY"];natural gas;electricity;capacity;chp;combined cycle;1.31047;GW;;"{""value"": ""aggregated""}";urbs;;2016
+217;58;["BY"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+218;58;["BY"];natural gas;electricity;capacity;chp;combustion engine;0.34974;GW;;"{""value"": ""aggregated""}";urbs;;2016
+219;58;["BY"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+220;58;["BY"];natural gas;electricity;capacity;chp;gas;0.6911;GW;;"{""value"": ""aggregated""}";urbs;;2016
+221;58;["BY"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+222;58;["BY"];natural gas;electricity;capacity;generator;combined cycle;1.69596;GW;;"{""value"": ""aggregated""}";urbs;;2016
+223;58;["BY"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+224;58;["BY"];natural gas;electricity;capacity;generator;combustion engine;0.04783;GW;;"{""value"": ""aggregated""}";urbs;;2016
+225;58;["BY"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+226;58;["BY"];natural gas;electricity;capacity;generator;gas;0.60373;GW;;"{""value"": ""aggregated""}";urbs;;2016
+227;58;["BY"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+228;58;["BY"];solar radiation;electricity;capacity;photovoltaics;rooftop;6.2694;GW;;"{""value"": ""aggregated""}";urbs;;2016
+229;58;["BY"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+230;58;["BY"];solar radiation;electricity;capacity;photovoltaics;utility;4.81424;GW;;"{""value"": ""aggregated""}";urbs;;2016
+231;58;["BY"];uranium;electricity;added capacity;nuclear;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+232;58;["BY"];uranium;electricity;capacity;nuclear;unknown;2.698;GW;;"{""value"": ""aggregated""}";urbs;;2016
+233;58;["BY"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+234;58;["BY"];waste;electricity;capacity;chp;steam;0.14124;GW;;"{""value"": ""aggregated""}";urbs;;2016
+235;58;["BY"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+236;58;["BY"];waste;electricity;capacity;generator;steam;0.06047;GW;;"{""value"": ""aggregated""}";urbs;;2016
+237;58;["BY"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+238;58;["BY"];water;electricity;capacity;hydro turbine;run-of-river;1.98114;GW;;"{""value"": ""aggregated""}";urbs;;2016
+239;58;["BY"];air;electricity;electricity generation;wind turbine;onshore;2103.505311;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+240;58;["BY"];air;electricity;primary energy consumption;wind turbine;onshore;2103505.311;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+241;58;["BY"];biogas;electricity;electricity generation;generator;combustion engine;1249.556936;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+242;58;["BY"];biogas;electricity;primary energy consumption;generator;combustion engine;2975135.561;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+243;58;["BY"];biomass;electricity;electricity generation;generator;steam;4274.250233;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+244;58;["BY"];biomass;electricity;primary energy consumption;generator;steam;28495001.55;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+245;58;["BY"];hard coal;electricity;electricity generation;chp;steam;6857.411308;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+246;58;["BY"];hard coal;electricity;emissions;chp;steam;0.004758204;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+247;58;["BY"];hard coal;electricity;primary energy consumption;chp;steam;13994716.95;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+248;58;["BY"];heat;electricity;electricity generation;geothermal;unknown;176.38272;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+249;58;["BY"];heat;electricity;primary energy consumption;geothermal;unknown;766881.3913;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+250;58;["BY"];lignite;electricity;electricity generation;chp;steam;16.28244;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+251;58;["BY"];lignite;electricity;emissions;chp;steam;1.39E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+252;58;["BY"];lignite;electricity;primary energy consumption;chp;steam;34643.48936;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+253;58;["BY"];natural gas;electricity;electricity generation;chp;combined cycle;42.48701397;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+254;58;["BY"];natural gas;electricity;emissions;chp;combined cycle;1.70E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+255;58;["BY"];natural gas;electricity;primary energy consumption;chp;combined cycle;84974.02794;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+256;58;["BY"];natural gas;electricity;electricity generation;generator;combined cycle;1414.037516;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+257;58;["BY"];natural gas;electricity;emissions;generator;combined cycle;0.000487599;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+258;58;["BY"];natural gas;electricity;primary energy consumption;generator;combined cycle;2437995.718;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+259;58;["BY"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;7209.087205;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+260;58;["BY"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;7209087.205;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+261;58;["BY"];solar radiation;electricity;electricity generation;photovoltaics;utility;5535.820969;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+262;58;["BY"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;5535820.969;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+263;58;["BY"];uranium;electricity;electricity generation;nuclear;unknown;23699.232;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+264;58;["BY"];uranium;electricity;primary energy consumption;nuclear;unknown;71815854.55;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+265;58;["BY"];waste;electricity;electricity generation;generator;steam;64.68179414;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+266;58;["BY"];waste;electricity;emissions;generator;steam;7.62E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+267;58;["BY"];waste;electricity;primary energy consumption;generator;steam;231006.4076;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+268;58;["BY"];water;electricity;electricity generation;hydro turbine;run-of-river;12137.44463;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+269;58;["BY"];water;electricity;primary energy consumption;hydro turbine;run-of-river;12137444.63;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+270;58;["BY"];electricity;electricity;input energy;storage;all;54.93307696;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+271;58;["BY"];electricity;electricity;output energy;storage;all;41.35020871;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+272;58;["BY"];electricity;electricity;losses;storage;all;13.58286826;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+273;58;["BY", "BW"];electricity;electricity;losses;transmission;HVAC;8039.701839;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+274;58;["BY", "HE"];electricity;electricity;losses;transmission;HVAC;20659.64114;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+275;58;["BY", "TH"];electricity;electricity;losses;transmission;HVAC;1097.593864;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+276;58;["HB"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+277;58;["HB"];air;electricity;capacity;wind turbine;onshore;0.17169;GW;;"{""value"": ""aggregated""}";urbs;;2016
+278;58;["HB"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+279;58;["HB"];biogas;electricity;capacity;generator;combustion engine;0.003;GW;;"{""value"": ""aggregated""}";urbs;;2016
+280;58;["HB"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+281;58;["HB"];biomass;electricity;capacity;generator;steam;0.007;GW;;"{""value"": ""aggregated""}";urbs;;2016
+282;58;["HB"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+283;58;["HB"];hard coal;electricity;capacity;chp;steam;0.422;GW;;"{""value"": ""aggregated""}";urbs;;2016
+284;58;["HB"];hard coal;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+285;58;["HB"];hard coal;electricity;capacity;generator;steam;0.35;GW;;"{""value"": ""aggregated""}";urbs;;2016
+286;58;["HB"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+287;58;["HB"];light oil;electricity;capacity;chp;gas;1.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+288;58;["HB"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+289;58;["HB"];light oil;electricity;capacity;generator;gas;0.10431;GW;;"{""value"": ""aggregated""}";urbs;;2016
+290;58;["HB"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+291;58;["HB"];natural gas;electricity;capacity;chp;combined cycle;0.01007;GW;;"{""value"": ""aggregated""}";urbs;;2016
+292;58;["HB"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+293;58;["HB"];natural gas;electricity;capacity;chp;combustion engine;0.02399;GW;;"{""value"": ""aggregated""}";urbs;;2016
+294;58;["HB"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+295;58;["HB"];natural gas;electricity;capacity;chp;gas;0.01648;GW;;"{""value"": ""aggregated""}";urbs;;2016
+296;58;["HB"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+297;58;["HB"];natural gas;electricity;capacity;generator;combined cycle;0.4445;GW;;"{""value"": ""aggregated""}";urbs;;2016
+298;58;["HB"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+299;58;["HB"];natural gas;electricity;capacity;generator;combustion engine;7.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+300;58;["HB"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+301;58;["HB"];natural gas;electricity;capacity;generator;gas;3.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+302;58;["HB"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+303;58;["HB"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.01791;GW;;"{""value"": ""aggregated""}";urbs;;2016
+304;58;["HB"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+305;58;["HB"];solar radiation;electricity;capacity;photovoltaics;utility;0.03317;GW;;"{""value"": ""aggregated""}";urbs;;2016
+306;58;["HB"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+307;58;["HB"];waste;electricity;capacity;chp;steam;0.1171;GW;;"{""value"": ""aggregated""}";urbs;;2016
+308;58;["HB"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+309;58;["HB"];waste;electricity;capacity;generator;steam;0.0037;GW;;"{""value"": ""aggregated""}";urbs;;2016
+310;58;["HB"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+311;58;["HB"];water;electricity;capacity;hydro turbine;run-of-river;0.01;GW;;"{""value"": ""aggregated""}";urbs;;2016
+312;58;["HB"];air;electricity;electricity generation;wind turbine;onshore;302.7540254;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+313;58;["HB"];air;electricity;primary energy consumption;wind turbine;onshore;302754.0254;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+314;58;["HB"];biomass;electricity;electricity generation;generator;steam;4.178561182;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+315;58;["HB"];biomass;electricity;primary energy consumption;generator;steam;27857.07454;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+316;58;["HB"];hard coal;electricity;electricity generation;chp;steam;3139.454134;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+317;58;["HB"];hard coal;electricity;emissions;chp;steam;0.002178397;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+318;58;["HB"];hard coal;electricity;primary energy consumption;chp;steam;6407049.254;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+319;58;["HB"];hard coal;electricity;electricity generation;generator;steam;2592.675615;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+320;58;["HB"];hard coal;electricity;emissions;generator;steam;0.001798999;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+321;58;["HB"];hard coal;electricity;primary energy consumption;generator;steam;5291174.725;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+322;58;["HB"];natural gas;electricity;electricity generation;chp;combined cycle;0.02014;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+323;58;["HB"];natural gas;electricity;emissions;chp;combined cycle;8.06E-09;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+324;58;["HB"];natural gas;electricity;primary energy consumption;chp;combined cycle;40.28;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+325;58;["HB"];natural gas;electricity;electricity generation;generator;combined cycle;178.0906098;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+326;58;["HB"];natural gas;electricity;emissions;generator;combined cycle;6.14E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+327;58;["HB"];natural gas;electricity;primary energy consumption;generator;combined cycle;307052.7755;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+328;58;["HB"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;18.56591793;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+329;58;["HB"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;18565.91793;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+330;58;["HB"];solar radiation;electricity;electricity generation;photovoltaics;utility;34.38478491;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+331;58;["HB"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;34384.78491;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+332;58;["HB"];waste;electricity;electricity generation;generator;steam;2.835152708;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+333;58;["HB"];waste;electricity;emissions;generator;steam;3.34E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+334;58;["HB"];waste;electricity;primary energy consumption;generator;steam;10125.54539;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+335;58;["HB"];water;electricity;electricity generation;hydro turbine;run-of-river;36.61300198;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+336;58;["HB"];water;electricity;primary energy consumption;hydro turbine;run-of-river;36613.00198;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+337;58;["HB"];electricity;electricity;input energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+338;58;["HB"];electricity;electricity;output energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+339;58;["HB"];electricity;electricity;losses;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+340;58;["HE"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+341;58;["HE"];air;electricity;capacity;wind turbine;onshore;1.31674;GW;;"{""value"": ""aggregated""}";urbs;;2016
+342;58;["HE"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+343;58;["HE"];biogas;electricity;capacity;generator;combustion engine;0.125;GW;;"{""value"": ""aggregated""}";urbs;;2016
+344;58;["HE"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+345;58;["HE"];biomass;electricity;capacity;generator;steam;0.249;GW;;"{""value"": ""aggregated""}";urbs;;2016
+346;58;["HE"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+347;58;["HE"];hard coal;electricity;capacity;chp;steam;0.687;GW;;"{""value"": ""aggregated""}";urbs;;2016
+348;58;["HE"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+349;58;["HE"];light oil;electricity;capacity;chp;gas;0.00251;GW;;"{""value"": ""aggregated""}";urbs;;2016
+350;58;["HE"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+351;58;["HE"];light oil;electricity;capacity;generator;gas;0.3023;GW;;"{""value"": ""aggregated""}";urbs;;2016
+352;58;["HE"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+353;58;["HE"];lignite;electricity;capacity;chp;steam;0.03545;GW;;"{""value"": ""aggregated""}";urbs;;2016
+354;58;["HE"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+355;58;["HE"];natural gas;electricity;capacity;chp;combined cycle;0.43632;GW;;"{""value"": ""aggregated""}";urbs;;2016
+356;58;["HE"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+357;58;["HE"];natural gas;electricity;capacity;chp;combustion engine;0.11322;GW;;"{""value"": ""aggregated""}";urbs;;2016
+358;58;["HE"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+359;58;["HE"];natural gas;electricity;capacity;chp;gas;0.38655;GW;;"{""value"": ""aggregated""}";urbs;;2016
+360;58;["HE"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+361;58;["HE"];natural gas;electricity;capacity;generator;combined cycle;0.74866;GW;;"{""value"": ""aggregated""}";urbs;;2016
+362;58;["HE"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+363;58;["HE"];natural gas;electricity;capacity;generator;combustion engine;0.0166;GW;;"{""value"": ""aggregated""}";urbs;;2016
+364;58;["HE"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+365;58;["HE"];natural gas;electricity;capacity;generator;gas;0.11679;GW;;"{""value"": ""aggregated""}";urbs;;2016
+366;58;["HE"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+367;58;["HE"];solar radiation;electricity;capacity;photovoltaics;rooftop;1.04821;GW;;"{""value"": ""aggregated""}";urbs;;2016
+368;58;["HE"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+369;58;["HE"];solar radiation;electricity;capacity;photovoltaics;utility;0.82558;GW;;"{""value"": ""aggregated""}";urbs;;2016
+370;58;["HE"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+371;58;["HE"];waste;electricity;capacity;chp;steam;0.20442;GW;;"{""value"": ""aggregated""}";urbs;;2016
+372;58;["HE"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+373;58;["HE"];waste;electricity;capacity;generator;steam;0.00562;GW;;"{""value"": ""aggregated""}";urbs;;2016
+374;58;["HE"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+375;58;["HE"];water;electricity;capacity;hydro turbine;run-of-river;0.06597;GW;;"{""value"": ""aggregated""}";urbs;;2016
+376;58;["HE"];air;electricity;electricity generation;wind turbine;onshore;1263.079059;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+377;58;["HE"];air;electricity;primary energy consumption;wind turbine;onshore;1263079.059;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+378;58;["HE"];biogas;electricity;electricity generation;generator;combustion engine;280.7993114;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+379;58;["HE"];biogas;electricity;primary energy consumption;generator;combustion engine;668569.789;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+380;58;["HE"];biomass;electricity;electricity generation;generator;steam;1048.818857;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+381;58;["HE"];biomass;electricity;primary energy consumption;generator;steam;6992125.71;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+382;58;["HE"];hard coal;electricity;electricity generation;chp;steam;5524.027824;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+383;58;["HE"];hard coal;electricity;emissions;chp;steam;0.003832999;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+384;58;["HE"];hard coal;electricity;primary energy consumption;chp;steam;11273526.17;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+385;58;["HE"];lignite;electricity;electricity generation;chp;steam;310.8965;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+386;58;["HE"];lignite;electricity;emissions;chp;steam;0.000264593;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+387;58;["HE"];lignite;electricity;primary energy consumption;chp;steam;661481.9149;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+388;58;["HE"];natural gas;electricity;electricity generation;chp;combined cycle;5.23584;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+389;58;["HE"];natural gas;electricity;emissions;chp;combined cycle;2.09E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+390;58;["HE"];natural gas;electricity;primary energy consumption;chp;combined cycle;10471.68;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+391;58;["HE"];natural gas;electricity;electricity generation;generator;combined cycle;615.0925929;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+392;58;["HE"];natural gas;electricity;emissions;generator;combined cycle;0.000212101;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+393;58;["HE"];natural gas;electricity;primary energy consumption;generator;combined cycle;1060504.47;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+394;58;["HE"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;1163.48931;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+395;58;["HE"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;1163489.31;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+396;58;["HE"];solar radiation;electricity;electricity generation;photovoltaics;utility;916.3750627;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+397;58;["HE"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;916375.0627;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+398;58;["HE"];waste;electricity;electricity generation;generator;steam;5.36687547;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+399;58;["HE"];waste;electricity;emissions;generator;steam;6.33E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+400;58;["HE"];waste;electricity;primary energy consumption;generator;steam;19167.41239;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+401;58;["HE"];water;electricity;electricity generation;hydro turbine;run-of-river;314.1080287;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+402;58;["HE"];water;electricity;primary energy consumption;hydro turbine;run-of-river;314108.0287;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+403;58;["HE"];electricity;electricity;input energy;storage;all;42.57467831;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+404;58;["HE"];electricity;electricity;output energy;storage;all;31.93100873;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+405;58;["HE"];electricity;electricity;losses;storage;all;10.64366958;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+406;58;["HE", "BY"];electricity;electricity;energy flow;transmission;HVAC;4675.211281;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+407;58;["HE", "RP"];electricity;electricity;energy flow;transmission;HVAC;534.8064006;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+408;58;["HE", "BW"];electricity;electricity;losses;transmission;HVAC;25089.71533;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+409;58;["HE", "BY"];electricity;electricity;losses;transmission;HVAC;160296.1903;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+410;58;["HE", "NI"];electricity;electricity;losses;transmission;HVAC;2490.300902;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+411;58;["HE", "NW"];electricity;electricity;losses;transmission;HVAC;3883.481068;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+412;58;["HE", "RP"];electricity;electricity;losses;transmission;HVAC;16045.6147;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+413;58;["HE", "TH"];electricity;electricity;losses;transmission;HVAC;132.3862843;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+414;58;["HH"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+415;58;["HH"];air;electricity;capacity;wind turbine;onshore;0.0543;GW;;"{""value"": ""aggregated""}";urbs;;2016
+416;58;["HH"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+417;58;["HH"];biogas;electricity;capacity;generator;combustion engine;0.003;GW;;"{""value"": ""aggregated""}";urbs;;2016
+418;58;["HH"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+419;58;["HH"];biomass;electricity;capacity;generator;steam;0.04;GW;;"{""value"": ""aggregated""}";urbs;;2016
+420;58;["HH"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+421;58;["HH"];hard coal;electricity;capacity;chp;steam;1.794;GW;;"{""value"": ""aggregated""}";urbs;;2016
+422;58;["HH"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+423;58;["HH"];light oil;electricity;capacity;chp;gas;4.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+424;58;["HH"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+425;58;["HH"];light oil;electricity;capacity;generator;gas;0.04058;GW;;"{""value"": ""aggregated""}";urbs;;2016
+426;58;["HH"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+427;58;["HH"];natural gas;electricity;capacity;chp;combined cycle;0.13197;GW;;"{""value"": ""aggregated""}";urbs;;2016
+428;58;["HH"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+429;58;["HH"];natural gas;electricity;capacity;chp;combustion engine;0.06625;GW;;"{""value"": ""aggregated""}";urbs;;2016
+430;58;["HH"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+431;58;["HH"];natural gas;electricity;capacity;chp;gas;0.04402;GW;;"{""value"": ""aggregated""}";urbs;;2016
+432;58;["HH"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+433;58;["HH"];natural gas;electricity;capacity;generator;combustion engine;9.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+434;58;["HH"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+435;58;["HH"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.01972;GW;;"{""value"": ""aggregated""}";urbs;;2016
+436;58;["HH"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+437;58;["HH"];solar radiation;electricity;capacity;photovoltaics;utility;0.02173;GW;;"{""value"": ""aggregated""}";urbs;;2016
+438;58;["HH"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+439;58;["HH"];waste;electricity;capacity;chp;steam;0.0141;GW;;"{""value"": ""aggregated""}";urbs;;2016
+440;58;["HH"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+441;58;["HH"];water;electricity;capacity;hydro turbine;run-of-river;0.00011;GW;;"{""value"": ""aggregated""}";urbs;;2016
+442;58;["HH"];air;electricity;electricity generation;wind turbine;onshore;75.6651819;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+443;58;["HH"];air;electricity;primary energy consumption;wind turbine;onshore;75665.1819;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+444;58;["HH"];biomass;electricity;electricity generation;generator;steam;4.178561182;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+445;58;["HH"];biomass;electricity;primary energy consumption;generator;steam;27857.07454;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+446;58;["HH"];hard coal;electricity;electricity generation;chp;steam;7559.569458;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+447;58;["HH"];hard coal;electricity;emissions;chp;steam;0.005245416;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+448;58;["HH"];hard coal;electricity;primary energy consumption;chp;steam;15427692.77;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+449;58;["HH"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;20.2428758;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+450;58;["HH"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;20242.8758;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+451;58;["HH"];solar radiation;electricity;electricity generation;photovoltaics;utility;22.30617095;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+452;58;["HH"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;22306.17095;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+453;58;["HH"];water;electricity;electricity generation;hydro turbine;run-of-river;0.465998914;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+454;58;["HH"];water;electricity;primary energy consumption;hydro turbine;run-of-river;465.9989143;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+455;58;["HH"];electricity;electricity;input energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+456;58;["HH"];electricity;electricity;output energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+457;58;["HH"];electricity;electricity;losses;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+458;58;["HH", "NI"];electricity;electricity;energy flow;transmission;HVAC;1522.177397;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+459;58;["HH", "NI"];electricity;electricity;losses;transmission;HVAC;45923.70457;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+460;58;["HH", "SH"];electricity;electricity;losses;transmission;HVAC;117.8236647;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+461;58;["MV"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+462;58;["MV"];air;electricity;capacity;wind turbine;onshore;3.1177;GW;;"{""value"": ""aggregated""}";urbs;;2016
+463;58;["MV"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+464;58;["MV"];biogas;electricity;capacity;generator;combustion engine;0.274;GW;;"{""value"": ""aggregated""}";urbs;;2016
+465;58;["MV"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+466;58;["MV"];biomass;electricity;capacity;generator;steam;0.344;GW;;"{""value"": ""aggregated""}";urbs;;2016
+467;58;["MV"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+468;58;["MV"];hard coal;electricity;capacity;chp;steam;0.514;GW;;"{""value"": ""aggregated""}";urbs;;2016
+469;58;["MV"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+470;58;["MV"];light oil;electricity;capacity;chp;gas;0.00043;GW;;"{""value"": ""aggregated""}";urbs;;2016
+471;58;["MV"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+472;58;["MV"];light oil;electricity;capacity;generator;gas;0.01634;GW;;"{""value"": ""aggregated""}";urbs;;2016
+473;58;["MV"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+474;58;["MV"];natural gas;electricity;capacity;chp;combined cycle;0.27526;GW;;"{""value"": ""aggregated""}";urbs;;2016
+475;58;["MV"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+476;58;["MV"];natural gas;electricity;capacity;chp;combustion engine;0.04159;GW;;"{""value"": ""aggregated""}";urbs;;2016
+477;58;["MV"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+478;58;["MV"];natural gas;electricity;capacity;chp;gas;0.09002;GW;;"{""value"": ""aggregated""}";urbs;;2016
+479;58;["MV"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+480;58;["MV"];natural gas;electricity;capacity;generator;combined cycle;1.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+481;58;["MV"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+482;58;["MV"];natural gas;electricity;capacity;generator;combustion engine;0.02136;GW;;"{""value"": ""aggregated""}";urbs;;2016
+483;58;["MV"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+484;58;["MV"];natural gas;electricity;capacity;generator;gas;0.00017;GW;;"{""value"": ""aggregated""}";urbs;;2016
+485;58;["MV"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+486;58;["MV"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.18213;GW;;"{""value"": ""aggregated""}";urbs;;2016
+487;58;["MV"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+488;58;["MV"];solar radiation;electricity;capacity;photovoltaics;utility;1.06282;GW;;"{""value"": ""aggregated""}";urbs;;2016
+489;58;["MV"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+490;58;["MV"];waste;electricity;capacity;chp;steam;0.02428;GW;;"{""value"": ""aggregated""}";urbs;;2016
+491;58;["MV"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+492;58;["MV"];waste;electricity;capacity;generator;steam;0.0085;GW;;"{""value"": ""aggregated""}";urbs;;2016
+493;58;["MV"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+494;58;["MV"];water;electricity;capacity;hydro turbine;run-of-river;0.00296;GW;;"{""value"": ""aggregated""}";urbs;;2016
+495;58;["MV"];air;electricity;electricity generation;wind turbine;onshore;6062.124469;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+496;58;["MV"];air;electricity;primary energy consumption;wind turbine;onshore;6062124.469;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+497;58;["MV"];biogas;electricity;electricity generation;generator;combustion engine;943.0176874;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+498;58;["MV"];biogas;electricity;primary energy consumption;generator;combustion engine;2245280.208;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+499;58;["MV"];biomass;electricity;electricity generation;generator;steam;1739.53502;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+500;58;["MV"];biomass;electricity;primary energy consumption;generator;steam;11596900.13;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+501;58;["MV"];hard coal;electricity;electricity generation;chp;steam;799.8519245;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+502;58;["MV"];hard coal;electricity;emissions;chp;steam;0.000554999;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+503;58;["MV"];hard coal;electricity;primary energy consumption;chp;steam;1632350.866;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+504;58;["MV"];natural gas;electricity;electricity generation;generator;combined cycle;0.00095;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+505;58;["MV"];natural gas;electricity;emissions;generator;combined cycle;3.28E-10;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+506;58;["MV"];natural gas;electricity;primary energy consumption;generator;combined cycle;1.637931034;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+507;58;["MV"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;192.3533212;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+508;58;["MV"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;192353.3212;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+509;58;["MV"];solar radiation;electricity;electricity generation;photovoltaics;utility;1122.478212;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+510;58;["MV"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;1122478.212;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+511;58;["MV"];waste;electricity;electricity generation;generator;steam;0.969;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+512;58;["MV"];waste;electricity;emissions;generator;steam;1.14E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+513;58;["MV"];waste;electricity;primary energy consumption;generator;steam;3460.714286;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+514;58;["MV"];water;electricity;electricity generation;hydro turbine;run-of-river;9.770330515;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+515;58;["MV"];water;electricity;primary energy consumption;hydro turbine;run-of-river;9770.330515;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+516;58;["MV"];electricity;electricity;input energy;storage;all;3.116826351;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+517;58;["MV"];electricity;electricity;output energy;storage;all;2.962855129;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+518;58;["MV"];electricity;electricity;losses;storage;all;0.153971222;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+519;58;["MV", "BB"];electricity;electricity;energy flow;transmission;HVAC;1838.509967;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+520;58;["MV", "SH"];electricity;electricity;energy flow;transmission;HVAC;2052.085187;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+521;58;["MV", "BB"];electricity;electricity;losses;transmission;HVAC;64590.98437;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+522;58;["MV", "SH"];electricity;electricity;losses;transmission;HVAC;63393.54837;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+523;58;["NI"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+524;58;["NI"];air;electricity;capacity;wind turbine;onshore;8.0072;GW;;"{""value"": ""aggregated""}";urbs;;2016
+525;58;["NI"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+526;58;["NI"];biogas;electricity;capacity;generator;combustion engine;1.125;GW;;"{""value"": ""aggregated""}";urbs;;2016
+527;58;["NI"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+528;58;["NI"];biomass;electricity;capacity;generator;steam;1.391;GW;;"{""value"": ""aggregated""}";urbs;;2016
+529;58;["NI"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+530;58;["NI"];hard coal;electricity;capacity;chp;steam;0.7534;GW;;"{""value"": ""aggregated""}";urbs;;2016
+531;58;["NI"];hard coal;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+532;58;["NI"];hard coal;electricity;capacity;generator;steam;2.271;GW;;"{""value"": ""aggregated""}";urbs;;2016
+533;58;["NI"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+534;58;["NI"];light oil;electricity;capacity;chp;gas;0.05966;GW;;"{""value"": ""aggregated""}";urbs;;2016
+535;58;["NI"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+536;58;["NI"];light oil;electricity;capacity;generator;gas;0.26095;GW;;"{""value"": ""aggregated""}";urbs;;2016
+537;58;["NI"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+538;58;["NI"];lignite;electricity;capacity;chp;steam;0.01965;GW;;"{""value"": ""aggregated""}";urbs;;2016
+539;58;["NI"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+540;58;["NI"];natural gas;electricity;capacity;chp;combined cycle;1.38956;GW;;"{""value"": ""aggregated""}";urbs;;2016
+541;58;["NI"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+542;58;["NI"];natural gas;electricity;capacity;chp;combustion engine;0.16764;GW;;"{""value"": ""aggregated""}";urbs;;2016
+543;58;["NI"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+544;58;["NI"];natural gas;electricity;capacity;chp;gas;0.3334;GW;;"{""value"": ""aggregated""}";urbs;;2016
+545;58;["NI"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+546;58;["NI"];natural gas;electricity;capacity;generator;combined cycle;1.78346;GW;;"{""value"": ""aggregated""}";urbs;;2016
+547;58;["NI"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+548;58;["NI"];natural gas;electricity;capacity;generator;combustion engine;0.02442;GW;;"{""value"": ""aggregated""}";urbs;;2016
+549;58;["NI"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+550;58;["NI"];natural gas;electricity;capacity;generator;gas;1.2968;GW;;"{""value"": ""aggregated""}";urbs;;2016
+551;58;["NI"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+552;58;["NI"];solar radiation;electricity;capacity;photovoltaics;rooftop;1.85769;GW;;"{""value"": ""aggregated""}";urbs;;2016
+553;58;["NI"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+554;58;["NI"];solar radiation;electricity;capacity;photovoltaics;utility;1.44472;GW;;"{""value"": ""aggregated""}";urbs;;2016
+555;58;["NI"];uranium;electricity;added capacity;nuclear;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+556;58;["NI"];uranium;electricity;capacity;nuclear;unknown;2.696;GW;;"{""value"": ""aggregated""}";urbs;;2016
+557;58;["NI"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+558;58;["NI"];waste;electricity;capacity;chp;steam;0.0291;GW;;"{""value"": ""aggregated""}";urbs;;2016
+559;58;["NI"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+560;58;["NI"];waste;electricity;capacity;generator;steam;0.04888;GW;;"{""value"": ""aggregated""}";urbs;;2016
+561;58;["NI"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+562;58;["NI"];water;electricity;capacity;hydro turbine;run-of-river;0.06926;GW;;"{""value"": ""aggregated""}";urbs;;2016
+563;58;["NI"];air;electricity;electricity generation;wind turbine;onshore;13301.86081;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+564;58;["NI"];air;electricity;primary energy consumption;wind turbine;onshore;13301860.81;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+565;58;["NI"];biogas;electricity;electricity generation;generator;combustion engine;3542.751312;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+566;58;["NI"];biogas;electricity;primary energy consumption;generator;combustion engine;8435122.172;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+567;58;["NI"];biomass;electricity;electricity generation;generator;steam;2157.808994;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+568;58;["NI"];biomass;electricity;primary energy consumption;generator;steam;14385393.29;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+569;58;["NI"];hard coal;electricity;electricity generation;chp;steam;3766.609897;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+570;58;["NI"];hard coal;electricity;emissions;chp;steam;0.002613566;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+571;58;["NI"];hard coal;electricity;primary energy consumption;chp;steam;7686958.974;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+572;58;["NI"];hard coal;electricity;electricity generation;generator;steam;13184.91948;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+573;58;["NI"];hard coal;electricity;emissions;generator;steam;0.00914872;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+574;58;["NI"];hard coal;electricity;primary energy consumption;generator;steam;26907998.94;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+575;58;["NI"];lignite;electricity;electricity generation;chp;steam;171.17115;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+576;58;["NI"];lignite;electricity;emissions;chp;steam;0.000145678;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+577;58;["NI"];lignite;electricity;primary energy consumption;chp;steam;364193.9362;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+578;58;["NI"];natural gas;electricity;electricity generation;generator;combined cycle;337.988367;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+579;58;["NI"];natural gas;electricity;emissions;generator;combined cycle;0.000116548;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+580;58;["NI"];natural gas;electricity;primary energy consumption;generator;combined cycle;582738.5639;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+581;58;["NI"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;1947.138764;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+582;58;["NI"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;1947138.764;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+583;58;["NI"];solar radiation;electricity;electricity generation;photovoltaics;utility;1514.284038;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+584;58;["NI"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;1514284.038;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+585;58;["NI"];uranium;electricity;electricity generation;nuclear;unknown;23681.664;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+586;58;["NI"];uranium;electricity;primary energy consumption;nuclear;unknown;71762618.18;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+587;58;["NI"];waste;electricity;electricity generation;generator;steam;14.0256395;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+588;58;["NI"];waste;electricity;emissions;generator;steam;1.65E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+589;58;["NI"];waste;electricity;primary energy consumption;generator;steam;50091.56965;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+590;58;["NI"];water;electricity;electricity generation;hydro turbine;run-of-river;237.1043839;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+591;58;["NI"];water;electricity;primary energy consumption;hydro turbine;run-of-river;237104.3839;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+592;58;["NI"];electricity;electricity;input energy;storage;all;19.77671521;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+593;58;["NI"];electricity;electricity;output energy;storage;all;14.83253641;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+594;58;["NI"];electricity;electricity;losses;storage;all;4.944178802;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+595;58;["NI", "HB"];electricity;electricity;energy flow;transmission;HVAC;13693.70028;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+596;58;["NI", "HE"];electricity;electricity;energy flow;transmission;HVAC;5044.872309;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+597;58;["NI", "NW"];electricity;electricity;energy flow;transmission;HVAC;9450.385571;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+598;58;["NI", "HB"];electricity;electricity;losses;transmission;HVAC;410811.0085;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+599;58;["NI", "HE"];electricity;electricity;losses;transmission;HVAC;153761.7611;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+600;58;["NI", "HH"];electricity;electricity;losses;transmission;HVAC;266.3738795;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+601;58;["NI", "NW"];electricity;electricity;losses;transmission;HVAC;286581.0966;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+602;58;["NI", "SH"];electricity;electricity;losses;transmission;HVAC;5.051273878;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+603;58;["NI", "ST"];electricity;electricity;losses;transmission;HVAC;10694.57794;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+604;58;["NW"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+605;58;["NW"];air;electricity;capacity;wind turbine;onshore;3.80277;GW;;"{""value"": ""aggregated""}";urbs;;2016
+606;58;["NW"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+607;58;["NW"];biogas;electricity;capacity;generator;combustion engine;0.418;GW;;"{""value"": ""aggregated""}";urbs;;2016
+608;58;["NW"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+609;58;["NW"];biomass;electricity;capacity;generator;steam;0.751;GW;;"{""value"": ""aggregated""}";urbs;;2016
+610;58;["NW"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+611;58;["NW"];hard coal;electricity;capacity;chp;steam;3.54021;GW;;"{""value"": ""aggregated""}";urbs;;2016
+612;58;["NW"];hard coal;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+613;58;["NW"];hard coal;electricity;capacity;generator;steam;7.83079;GW;;"{""value"": ""aggregated""}";urbs;;2016
+614;58;["NW"];heat;electricity;added capacity;geothermal;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+615;58;["NW"];heat;electricity;capacity;geothermal;unknown;2.38E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+616;58;["NW"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+617;58;["NW"];light oil;electricity;capacity;chp;gas;0.10196;GW;;"{""value"": ""aggregated""}";urbs;;2016
+618;58;["NW"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+619;58;["NW"];light oil;electricity;capacity;generator;gas;0.70441;GW;;"{""value"": ""aggregated""}";urbs;;2016
+620;58;["NW"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+621;58;["NW"];lignite;electricity;capacity;chp;steam;8.53488;GW;;"{""value"": ""aggregated""}";urbs;;2016
+622;58;["NW"];lignite;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+623;58;["NW"];lignite;electricity;capacity;generator;steam;2.08612;GW;;"{""value"": ""aggregated""}";urbs;;2016
+624;58;["NW"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+625;58;["NW"];natural gas;electricity;capacity;chp;combined cycle;1.01388;GW;;"{""value"": ""aggregated""}";urbs;;2016
+626;58;["NW"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+627;58;["NW"];natural gas;electricity;capacity;chp;combustion engine;0.46807;GW;;"{""value"": ""aggregated""}";urbs;;2016
+628;58;["NW"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+629;58;["NW"];natural gas;electricity;capacity;chp;gas;1.57574;GW;;"{""value"": ""aggregated""}";urbs;;2016
+630;58;["NW"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+631;58;["NW"];natural gas;electricity;capacity;generator;combined cycle;3.67071;GW;;"{""value"": ""aggregated""}";urbs;;2016
+632;58;["NW"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+633;58;["NW"];natural gas;electricity;capacity;generator;combustion engine;0.02133;GW;;"{""value"": ""aggregated""}";urbs;;2016
+634;58;["NW"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+635;58;["NW"];natural gas;electricity;capacity;generator;gas;0.88987;GW;;"{""value"": ""aggregated""}";urbs;;2016
+636;58;["NW"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+637;58;["NW"];solar radiation;electricity;capacity;photovoltaics;rooftop;2.67756;GW;;"{""value"": ""aggregated""}";urbs;;2016
+638;58;["NW"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+639;58;["NW"];solar radiation;electricity;capacity;photovoltaics;utility;1.73284;GW;;"{""value"": ""aggregated""}";urbs;;2016
+640;58;["NW"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+641;58;["NW"];waste;electricity;capacity;chp;steam;0.232;GW;;"{""value"": ""aggregated""}";urbs;;2016
+642;58;["NW"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+643;58;["NW"];waste;electricity;capacity;generator;steam;0.18653;GW;;"{""value"": ""aggregated""}";urbs;;2016
+644;58;["NW"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+645;58;["NW"];water;electricity;capacity;hydro turbine;run-of-river;0.1505;GW;;"{""value"": ""aggregated""}";urbs;;2016
+646;58;["NW"];air;electricity;electricity generation;wind turbine;onshore;4956.21478;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+647;58;["NW"];air;electricity;primary energy consumption;wind turbine;onshore;4956214.78;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+648;58;["NW"];biogas;electricity;electricity generation;generator;combustion engine;1485.896356;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+649;58;["NW"];biogas;electricity;primary energy consumption;generator;combustion engine;3537848.467;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+650;58;["NW"];biomass;electricity;electricity generation;generator;steam;2871.089388;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+651;58;["NW"];biomass;electricity;primary energy consumption;generator;steam;19140595.92;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+652;58;["NW"];hard coal;electricity;electricity generation;chp;steam;20142.42276;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+653;58;["NW"];hard coal;electricity;emissions;chp;steam;0.013976375;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+654;58;["NW"];hard coal;electricity;primary energy consumption;chp;steam;41106985.23;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+655;58;["NW"];hard coal;electricity;electricity generation;generator;steam;54229.57433;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+656;58;["NW"];hard coal;electricity;emissions;generator;steam;0.037628684;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+657;58;["NW"];hard coal;electricity;primary energy consumption;generator;steam;110672600.7;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+658;58;["NW"];heat;electricity;electricity generation;geothermal;unknown;0.2090592;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+659;58;["NW"];heat;electricity;primary energy consumption;geothermal;unknown;908.9530435;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+660;58;["NW"];lignite;electricity;electricity generation;chp;steam;74830.59865;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+661;58;["NW"];lignite;electricity;emissions;chp;steam;0.063685616;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+662;58;["NW"];lignite;electricity;primary energy consumption;chp;steam;159214039.7;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+663;58;["NW"];lignite;electricity;electricity generation;generator;steam;18324.47808;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+664;58;["NW"];lignite;electricity;emissions;generator;steam;0.0155953;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+665;58;["NW"];lignite;electricity;primary energy consumption;generator;steam;38988251.23;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+666;58;["NW"];natural gas;electricity;electricity generation;generator;combined cycle;1797.223701;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+667;58;["NW"];natural gas;electricity;emissions;generator;combined cycle;0.000619732;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+668;58;["NW"];natural gas;electricity;primary energy consumption;generator;combined cycle;3098661.553;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+669;58;["NW"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;2841.6278;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+670;58;["NW"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;2841627.8;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+671;58;["NW"];solar radiation;electricity;electricity generation;photovoltaics;utility;1839.019972;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+672;58;["NW"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;1839019.972;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+673;58;["NW"];waste;electricity;electricity generation;generator;steam;137.9581;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+674;58;["NW"];waste;electricity;emissions;generator;steam;0.000162593;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+675;58;["NW"];waste;electricity;primary energy consumption;generator;steam;492707.5001;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+676;58;["NW"];water;electricity;electricity generation;hydro turbine;run-of-river;505.6585703;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+677;58;["NW"];water;electricity;primary energy consumption;hydro turbine;run-of-river;505658.5703;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+678;58;["NW"];electricity;electricity;input energy;storage;all;26.37117465;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+679;58;["NW"];electricity;electricity;output energy;storage;all;19.80452337;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+680;58;["NW"];electricity;electricity;losses;storage;all;6.566651278;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+681;58;["NW", "HE"];electricity;electricity;energy flow;transmission;HVAC;11973.20083;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+682;58;["NW", "RP"];electricity;electricity;energy flow;transmission;HVAC;30274.51529;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+683;58;["NW", "HE"];electricity;electricity;losses;transmission;HVAC;362963.0015;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+684;58;["NW", "NI"];electricity;electricity;losses;transmission;HVAC;3164.463405;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+685;58;["NW", "RP"];electricity;electricity;losses;transmission;HVAC;908235.4586;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+686;58;["RP"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+687;58;["RP"];air;electricity;capacity;wind turbine;onshore;2.85529;GW;;"{""value"": ""aggregated""}";urbs;;2016
+688;58;["RP"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+689;58;["RP"];biogas;electricity;capacity;generator;combustion engine;0.078;GW;;"{""value"": ""aggregated""}";urbs;;2016
+690;58;["RP"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+691;58;["RP"];biomass;electricity;capacity;generator;steam;0.16;GW;;"{""value"": ""aggregated""}";urbs;;2016
+692;58;["RP"];heat;electricity;added capacity;geothermal;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+693;58;["RP"];heat;electricity;capacity;geothermal;unknown;0.0021;GW;;"{""value"": ""aggregated""}";urbs;;2016
+694;58;["RP"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+695;58;["RP"];light oil;electricity;capacity;chp;gas;0.00176;GW;;"{""value"": ""aggregated""}";urbs;;2016
+696;58;["RP"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+697;58;["RP"];light oil;electricity;capacity;generator;gas;0.12836;GW;;"{""value"": ""aggregated""}";urbs;;2016
+698;58;["RP"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+699;58;["RP"];lignite;electricity;capacity;chp;steam;0.00038;GW;;"{""value"": ""aggregated""}";urbs;;2016
+700;58;["RP"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+701;58;["RP"];natural gas;electricity;capacity;chp;combined cycle;1.24222;GW;;"{""value"": ""aggregated""}";urbs;;2016
+702;58;["RP"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+703;58;["RP"];natural gas;electricity;capacity;chp;combustion engine;0.07812;GW;;"{""value"": ""aggregated""}";urbs;;2016
+704;58;["RP"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+705;58;["RP"];natural gas;electricity;capacity;chp;gas;0.3611;GW;;"{""value"": ""aggregated""}";urbs;;2016
+706;58;["RP"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+707;58;["RP"];natural gas;electricity;capacity;generator;combined cycle;0.00732;GW;;"{""value"": ""aggregated""}";urbs;;2016
+708;58;["RP"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+709;58;["RP"];natural gas;electricity;capacity;generator;combustion engine;0.00439;GW;;"{""value"": ""aggregated""}";urbs;;2016
+710;58;["RP"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+711;58;["RP"];natural gas;electricity;capacity;generator;gas;0.13862;GW;;"{""value"": ""aggregated""}";urbs;;2016
+712;58;["RP"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+713;58;["RP"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.96392;GW;;"{""value"": ""aggregated""}";urbs;;2016
+714;58;["RP"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+715;58;["RP"];solar radiation;electricity;capacity;photovoltaics;utility;0.85891;GW;;"{""value"": ""aggregated""}";urbs;;2016
+716;58;["RP"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+717;58;["RP"];waste;electricity;capacity;chp;steam;0.0425;GW;;"{""value"": ""aggregated""}";urbs;;2016
+718;58;["RP"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+719;58;["RP"];waste;electricity;capacity;generator;steam;0.005;GW;;"{""value"": ""aggregated""}";urbs;;2016
+720;58;["RP"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+721;58;["RP"];water;electricity;capacity;hydro turbine;run-of-river;0.23066;GW;;"{""value"": ""aggregated""}";urbs;;2016
+722;58;["RP"];air;electricity;electricity generation;wind turbine;onshore;3140.087979;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+723;58;["RP"];air;electricity;primary energy consumption;wind turbine;onshore;3140087.979;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+724;58;["RP"];biogas;electricity;electricity generation;generator;combustion engine;210.5994835;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+725;58;["RP"];biogas;electricity;primary energy consumption;generator;combustion engine;501427.3418;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+726;58;["RP"];biomass;electricity;electricity generation;generator;steam;916.7763232;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+727;58;["RP"];biomass;electricity;primary energy consumption;generator;steam;6111842.155;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+728;58;["RP"];heat;electricity;electricity generation;geothermal;unknown;18.4464;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+729;58;["RP"];heat;electricity;primary energy consumption;geothermal;unknown;80201.73913;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+730;58;["RP"];lignite;electricity;electricity generation;chp;steam;3.33564;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+731;58;["RP"];lignite;electricity;emissions;chp;steam;2.84E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+732;58;["RP"];lignite;electricity;primary energy consumption;chp;steam;7097.106383;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+733;58;["RP"];natural gas;electricity;electricity generation;chp;combined cycle;23.36845256;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+734;58;["RP"];natural gas;electricity;emissions;chp;combined cycle;9.35E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+735;58;["RP"];natural gas;electricity;primary energy consumption;chp;combined cycle;46736.90513;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+736;58;["RP"];natural gas;electricity;electricity generation;generator;combined cycle;6.46356;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+737;58;["RP"];natural gas;electricity;emissions;generator;combined cycle;2.23E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+738;58;["RP"];natural gas;electricity;primary energy consumption;generator;combined cycle;11144.06897;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+739;58;["RP"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;1077.818772;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+740;58;["RP"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;1077818.772;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+741;58;["RP"];solar radiation;electricity;electricity generation;photovoltaics;utility;960.400574;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+742;58;["RP"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;960400.574;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+743;58;["RP"];waste;electricity;electricity generation;generator;steam;4.805;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+744;58;["RP"];waste;electricity;emissions;generator;steam;5.66E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+745;58;["RP"];waste;electricity;primary energy consumption;generator;steam;17160.71429;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+746;58;["RP"];water;electricity;electricity generation;hydro turbine;run-of-river;1049.761224;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+747;58;["RP"];water;electricity;primary energy consumption;hydro turbine;run-of-river;1049761.224;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+748;58;["RP"];electricity;electricity;input energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+749;58;["RP"];electricity;electricity;output energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+750;58;["RP"];electricity;electricity;losses;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+751;58;["RP", "SL"];electricity;electricity;energy flow;transmission;HVAC;12410.91213;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+752;58;["RP", "BW"];electricity;electricity;losses;transmission;HVAC;37344.521;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+753;58;["RP", "HE"];electricity;electricity;losses;transmission;HVAC;1.466684299;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+754;58;["RP", "SL"];electricity;electricity;losses;transmission;HVAC;372922.7716;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+755;58;["SH"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+756;58;["SH"];air;electricity;capacity;wind turbine;onshore;5.309;GW;;"{""value"": ""aggregated""}";urbs;;2016
+757;58;["SH"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+758;58;["SH"];biogas;electricity;capacity;generator;combustion engine;0.392;GW;;"{""value"": ""aggregated""}";urbs;;2016
+759;58;["SH"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+760;58;["SH"];biomass;electricity;capacity;generator;steam;0.438;GW;;"{""value"": ""aggregated""}";urbs;;2016
+761;58;["SH"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+762;58;["SH"];hard coal;electricity;capacity;chp;steam;0.73063;GW;;"{""value"": ""aggregated""}";urbs;;2016
+763;58;["SH"];heat;electricity;added capacity;geothermal;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+764;58;["SH"];heat;electricity;capacity;geothermal;unknown;6.10E-06;GW;;"{""value"": ""aggregated""}";urbs;;2016
+765;58;["SH"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+766;58;["SH"];light oil;electricity;capacity;chp;gas;0.00279;GW;;"{""value"": ""aggregated""}";urbs;;2016
+767;58;["SH"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+768;58;["SH"];light oil;electricity;capacity;generator;gas;0.27866;GW;;"{""value"": ""aggregated""}";urbs;;2016
+769;58;["SH"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+770;58;["SH"];natural gas;electricity;capacity;chp;combined cycle;0.03777;GW;;"{""value"": ""aggregated""}";urbs;;2016
+771;58;["SH"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+772;58;["SH"];natural gas;electricity;capacity;chp;combustion engine;0.08149;GW;;"{""value"": ""aggregated""}";urbs;;2016
+773;58;["SH"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+774;58;["SH"];natural gas;electricity;capacity;chp;gas;0.03991;GW;;"{""value"": ""aggregated""}";urbs;;2016
+775;58;["SH"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+776;58;["SH"];natural gas;electricity;capacity;generator;combined cycle;1.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+777;58;["SH"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+778;58;["SH"];natural gas;electricity;capacity;generator;combustion engine;0.04554;GW;;"{""value"": ""aggregated""}";urbs;;2016
+779;58;["SH"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+780;58;["SH"];natural gas;electricity;capacity;generator;gas;0.00159;GW;;"{""value"": ""aggregated""}";urbs;;2016
+781;58;["SH"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+782;58;["SH"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.66336;GW;;"{""value"": ""aggregated""}";urbs;;2016
+783;58;["SH"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+784;58;["SH"];solar radiation;electricity;capacity;photovoltaics;utility;0.76929;GW;;"{""value"": ""aggregated""}";urbs;;2016
+785;58;["SH"];uranium;electricity;added capacity;nuclear;unknown;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+786;58;["SH"];uranium;electricity;capacity;nuclear;unknown;1.41;GW;;"{""value"": ""aggregated""}";urbs;;2016
+787;58;["SH"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+788;58;["SH"];waste;electricity;capacity;chp;steam;0.08483;GW;;"{""value"": ""aggregated""}";urbs;;2016
+789;58;["SH"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+790;58;["SH"];water;electricity;capacity;hydro turbine;run-of-river;0.00472;GW;;"{""value"": ""aggregated""}";urbs;;2016
+791;58;["SH"];air;electricity;electricity generation;wind turbine;onshore;13650.09148;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+792;58;["SH"];air;electricity;primary energy consumption;wind turbine;onshore;13650091.48;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+793;58;["SH"];biogas;electricity;electricity generation;generator;combustion engine;1134.897217;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+794;58;["SH"];biogas;electricity;primary energy consumption;generator;combustion engine;2702136.231;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+795;58;["SH"];biomass;electricity;electricity generation;generator;steam;916.7763232;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+796;58;["SH"];biomass;electricity;primary energy consumption;generator;steam;6111842.155;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+797;58;["SH"];hard coal;electricity;electricity generation;chp;steam;1653.948357;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+798;58;["SH"];hard coal;electricity;emissions;chp;steam;0.001147638;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+799;58;["SH"];hard coal;electricity;primary energy consumption;chp;steam;3375404.81;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+800;58;["SH"];heat;electricity;electricity generation;geothermal;unknown;0.0535824;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+801;58;["SH"];heat;electricity;primary energy consumption;geothermal;unknown;232.9669565;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+802;58;["SH"];natural gas;electricity;electricity generation;generator;combined cycle;0.00092;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+803;58;["SH"];natural gas;electricity;emissions;generator;combined cycle;3.17E-10;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+804;58;["SH"];natural gas;electricity;primary energy consumption;generator;combined cycle;1.586206897;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+805;58;["SH"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;684.5264909;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+806;58;["SH"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;684526.4909;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+807;58;["SH"];solar radiation;electricity;electricity generation;photovoltaics;utility;793.8365053;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+808;58;["SH"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;793836.5053;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+809;58;["SH"];uranium;electricity;electricity generation;nuclear;unknown;12380.31298;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+810;58;["SH"];uranium;electricity;primary energy consumption;nuclear;unknown;37516099.94;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+811;58;["SH"];water;electricity;electricity generation;hydro turbine;run-of-river;6.99756874;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+812;58;["SH"];water;electricity;primary energy consumption;hydro turbine;run-of-river;6997.56874;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+813;58;["SH"];electricity;electricity;input energy;storage;all;12.26545895;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+814;58;["SH"];electricity;electricity;output energy;storage;all;9.51200716;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+815;58;["SH"];electricity;electricity;losses;storage;all;2.753451788;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+816;58;["SH", "HH"];electricity;electricity;energy flow;transmission;HVAC;5867.352635;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+817;58;["SH", "NI"];electricity;electricity;energy flow;transmission;HVAC;12557.31646;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+818;58;["SH", "HH"];electricity;electricity;losses;transmission;HVAC;176134.868;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+819;58;["SH", "MV"];electricity;electricity;losses;transmission;HVAC;1887.621404;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+820;58;["SH", "NI"];electricity;electricity;losses;transmission;HVAC;376724.3934;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+821;58;["SL"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+822;58;["SL"];air;electricity;capacity;wind turbine;onshore;0.27951;GW;;"{""value"": ""aggregated""}";urbs;;2016
+823;58;["SL"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+824;58;["SL"];biogas;electricity;capacity;generator;combustion engine;0.006;GW;;"{""value"": ""aggregated""}";urbs;;2016
+825;58;["SL"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+826;58;["SL"];biomass;electricity;capacity;generator;steam;0.02;GW;;"{""value"": ""aggregated""}";urbs;;2016
+827;58;["SL"];hard coal;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+828;58;["SL"];hard coal;electricity;capacity;chp;steam;0.443;GW;;"{""value"": ""aggregated""}";urbs;;2016
+829;58;["SL"];hard coal;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+830;58;["SL"];hard coal;electricity;capacity;generator;steam;1.3816;GW;;"{""value"": ""aggregated""}";urbs;;2016
+831;58;["SL"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+832;58;["SL"];light oil;electricity;capacity;chp;gas;0.03563;GW;;"{""value"": ""aggregated""}";urbs;;2016
+833;58;["SL"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+834;58;["SL"];light oil;electricity;capacity;generator;gas;0.01793;GW;;"{""value"": ""aggregated""}";urbs;;2016
+835;58;["SL"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+836;58;["SL"];natural gas;electricity;capacity;chp;combined cycle;0.03862;GW;;"{""value"": ""aggregated""}";urbs;;2016
+837;58;["SL"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+838;58;["SL"];natural gas;electricity;capacity;chp;combustion engine;0.01912;GW;;"{""value"": ""aggregated""}";urbs;;2016
+839;58;["SL"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+840;58;["SL"];natural gas;electricity;capacity;chp;gas;0.0986;GW;;"{""value"": ""aggregated""}";urbs;;2016
+841;58;["SL"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+842;58;["SL"];natural gas;electricity;capacity;generator;combustion engine;0.00039;GW;;"{""value"": ""aggregated""}";urbs;;2016
+843;58;["SL"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+844;58;["SL"];natural gas;electricity;capacity;generator;gas;3.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+845;58;["SL"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+846;58;["SL"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.2034;GW;;"{""value"": ""aggregated""}";urbs;;2016
+847;58;["SL"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+848;58;["SL"];solar radiation;electricity;capacity;photovoltaics;utility;0.29043;GW;;"{""value"": ""aggregated""}";urbs;;2016
+849;58;["SL"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+850;58;["SL"];waste;electricity;capacity;chp;steam;0.0116;GW;;"{""value"": ""aggregated""}";urbs;;2016
+851;58;["SL"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+852;58;["SL"];water;electricity;capacity;hydro turbine;run-of-river;0.01115;GW;;"{""value"": ""aggregated""}";urbs;;2016
+853;58;["SL"];air;electricity;electricity generation;wind turbine;onshore;308.0115306;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+854;58;["SL"];air;electricity;primary energy consumption;wind turbine;onshore;308011.5306;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+855;58;["SL"];biogas;electricity;electricity generation;generator;combustion engine;23.39994262;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+856;58;["SL"];biogas;electricity;primary energy consumption;generator;combustion engine;55714.14909;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+857;58;["SL"];biomass;electricity;electricity generation;generator;steam;57.6641443;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+858;58;["SL"];biomass;electricity;primary energy consumption;generator;steam;384427.6287;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+859;58;["SL"];hard coal;electricity;electricity generation;chp;steam;3711.698394;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+860;58;["SL"];hard coal;electricity;emissions;chp;steam;0.002575464;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+861;58;["SL"];hard coal;electricity;primary energy consumption;chp;steam;7574894.681;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+862;58;["SL"];hard coal;electricity;electricity generation;generator;steam;11818.2555;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+863;58;["SL"];hard coal;electricity;emissions;generator;steam;0.008200422;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+864;58;["SL"];hard coal;electricity;primary energy consumption;generator;steam;24118888.77;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+865;58;["SL"];light oil;electricity;electricity generation;chp;gas;21.15883642;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+866;58;["SL"];light oil;electricity;emissions;chp;gas;1.19E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+867;58;["SL"];light oil;electricity;primary energy consumption;chp;gas;51606.9181;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+868;58;["SL"];light oil;electricity;electricity generation;generator;gas;9.938489671;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+869;58;["SL"];light oil;electricity;emissions;generator;gas;5.71E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+870;58;["SL"];light oil;electricity;primary energy consumption;generator;gas;24846.22418;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+871;58;["SL"];natural gas;electricity;electricity generation;chp;combined cycle;35.72167019;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+872;58;["SL"];natural gas;electricity;emissions;chp;combined cycle;1.43E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+873;58;["SL"];natural gas;electricity;primary energy consumption;chp;combined cycle;71443.34038;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+874;58;["SL"];natural gas;electricity;electricity generation;chp;combustion engine;15.67909466;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+875;58;["SL"];natural gas;electricity;emissions;chp;combustion engine;6.82E-06;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+876;58;["SL"];natural gas;electricity;primary energy consumption;chp;combustion engine;34084.9884;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+877;58;["SL"];natural gas;electricity;electricity generation;chp;gas;69.92935499;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+878;58;["SL"];natural gas;electricity;emissions;chp;gas;3.41E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+879;58;["SL"];natural gas;electricity;primary energy consumption;chp;gas;170559.4024;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+880;58;["SL"];natural gas;electricity;electricity generation;generator;combustion engine;0.31239;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+881;58;["SL"];natural gas;electricity;emissions;generator;combustion engine;1.36E-07;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+882;58;["SL"];natural gas;electricity;primary energy consumption;generator;combustion engine;679.1086957;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+883;58;["SL"];natural gas;electricity;electricity generation;generator;gas;0.02502;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+884;58;["SL"];natural gas;electricity;emissions;generator;gas;1.04E-08;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+885;58;["SL"];natural gas;electricity;primary energy consumption;generator;gas;52.125;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+886;58;["SL"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;226.2369384;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+887;58;["SL"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;226236.9384;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+888;58;["SL"];solar radiation;electricity;electricity generation;photovoltaics;utility;323.0383187;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+889;58;["SL"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;323038.3187;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+890;58;["SL"];waste;electricity;electricity generation;chp;steam;9.851226089;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+891;58;["SL"];waste;electricity;emissions;chp;steam;1.41E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+892;58;["SL"];waste;electricity;primary energy consumption;chp;steam;42831.41778;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+893;58;["SL"];water;electricity;electricity generation;hydro turbine;run-of-river;59.25956401;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+894;58;["SL"];water;electricity;primary energy consumption;hydro turbine;run-of-river;59259.56401;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+895;58;["SL"];electricity;electricity;input energy;storage;all;0.780771723;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+896;58;["SL"];electricity;electricity;output energy;storage;all;0.7422016;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+897;58;["SL"];electricity;electricity;losses;storage;all;0.038570123;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+898;58;["SL", "RP"];electricity;electricity;losses;transmission;HVAC;613.8224153;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+899;58;["SN"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+900;58;["SN"];air;electricity;capacity;wind turbine;onshore;1.12402;GW;;"{""value"": ""aggregated""}";urbs;;2016
+901;58;["SN"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+902;58;["SN"];biogas;electricity;capacity;generator;combustion engine;0.159;GW;;"{""value"": ""aggregated""}";urbs;;2016
+903;58;["SN"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+904;58;["SN"];biomass;electricity;capacity;generator;steam;0.272;GW;;"{""value"": ""aggregated""}";urbs;;2016
+905;58;["SN"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+906;58;["SN"];light oil;electricity;capacity;chp;gas;0.00692;GW;;"{""value"": ""aggregated""}";urbs;;2016
+907;58;["SN"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+908;58;["SN"];light oil;electricity;capacity;generator;gas;0.07498;GW;;"{""value"": ""aggregated""}";urbs;;2016
+909;58;["SN"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+910;58;["SN"];lignite;electricity;capacity;chp;steam;3.77616;GW;;"{""value"": ""aggregated""}";urbs;;2016
+911;58;["SN"];lignite;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+912;58;["SN"];lignite;electricity;capacity;generator;steam;0.63;GW;;"{""value"": ""aggregated""}";urbs;;2016
+913;58;["SN"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+914;58;["SN"];natural gas;electricity;capacity;chp;combined cycle;0.38376;GW;;"{""value"": ""aggregated""}";urbs;;2016
+915;58;["SN"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+916;58;["SN"];natural gas;electricity;capacity;chp;combustion engine;0.18294;GW;;"{""value"": ""aggregated""}";urbs;;2016
+917;58;["SN"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+918;58;["SN"];natural gas;electricity;capacity;chp;gas;0.06031;GW;;"{""value"": ""aggregated""}";urbs;;2016
+919;58;["SN"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+920;58;["SN"];natural gas;electricity;capacity;generator;combined cycle;0.00027;GW;;"{""value"": ""aggregated""}";urbs;;2016
+921;58;["SN"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+922;58;["SN"];natural gas;electricity;capacity;generator;combustion engine;0.00146;GW;;"{""value"": ""aggregated""}";urbs;;2016
+923;58;["SN"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+924;58;["SN"];natural gas;electricity;capacity;generator;gas;0.00113;GW;;"{""value"": ""aggregated""}";urbs;;2016
+925;58;["SN"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+926;58;["SN"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.34299;GW;;"{""value"": ""aggregated""}";urbs;;2016
+927;58;["SN"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+928;58;["SN"];solar radiation;electricity;capacity;photovoltaics;utility;1.14652;GW;;"{""value"": ""aggregated""}";urbs;;2016
+929;58;["SN"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+930;58;["SN"];waste;electricity;capacity;chp;steam;0.0157;GW;;"{""value"": ""aggregated""}";urbs;;2016
+931;58;["SN"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+932;58;["SN"];waste;electricity;capacity;generator;steam;0.00171;GW;;"{""value"": ""aggregated""}";urbs;;2016
+933;58;["SN"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+934;58;["SN"];water;electricity;capacity;hydro turbine;run-of-river;0.21291;GW;;"{""value"": ""aggregated""}";urbs;;2016
+935;58;["SN"];air;electricity;electricity generation;wind turbine;onshore;1498.200196;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+936;58;["SN"];air;electricity;primary energy consumption;wind turbine;onshore;1498200.196;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+937;58;["SN"];biogas;electricity;electricity generation;generator;combustion engine;818.9979916;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+938;58;["SN"];biogas;electricity;primary energy consumption;generator;combustion engine;1949995.218;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+939;58;["SN"];biomass;electricity;electricity generation;generator;steam;1123.615102;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+940;58;["SN"];biomass;electricity;primary energy consumption;generator;steam;7490767.345;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+941;58;["SN"];lignite;electricity;electricity generation;chp;steam;32835.17272;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+942;58;["SN"];lignite;electricity;emissions;chp;steam;0.027944828;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+943;58;["SN"];lignite;electricity;primary energy consumption;chp;steam;69862069.62;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+944;58;["SN"];lignite;electricity;electricity generation;generator;steam;5517.002015;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+945;58;["SN"];lignite;electricity;emissions;generator;steam;0.004695321;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+946;58;["SN"];lignite;electricity;primary energy consumption;generator;steam;11738302.16;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+947;58;["SN"];natural gas;electricity;electricity generation;generator;combined cycle;0.08667;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+948;58;["SN"];natural gas;electricity;emissions;generator;combined cycle;2.99E-08;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+949;58;["SN"];natural gas;electricity;primary energy consumption;generator;combined cycle;149.4310345;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+950;58;["SN"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;377.9021472;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+951;58;["SN"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;377902.1472;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+952;58;["SN"];solar radiation;electricity;electricity generation;photovoltaics;utility;1263.22158;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+953;58;["SN"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;1263221.58;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+954;58;["SN"];waste;electricity;electricity generation;generator;steam;0.79002;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+955;58;["SN"];waste;electricity;emissions;generator;steam;9.31E-07;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+956;58;["SN"];waste;electricity;primary energy consumption;generator;steam;2821.5;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+957;58;["SN"];water;electricity;electricity generation;hydro turbine;run-of-river;268.0001913;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+958;58;["SN"];water;electricity;primary energy consumption;hydro turbine;run-of-river;268000.1913;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+959;58;["SN"];electricity;electricity;input energy;storage;all;246.1410553;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+960;58;["SN"];electricity;electricity;output energy;storage;all;184.8881777;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+961;58;["SN"];electricity;electricity;losses;storage;all;61.25287761;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+962;58;["SN", "TH"];electricity;electricity;energy flow;transmission;HVAC;26850.96506;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+963;58;["SN", "BB"];electricity;electricity;losses;transmission;HVAC;351.4490968;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+964;58;["SN", "TH"];electricity;electricity;losses;transmission;HVAC;805528.9519;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+965;58;["ST"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+966;58;["ST"];air;electricity;capacity;wind turbine;onshore;4.51535;GW;;"{""value"": ""aggregated""}";urbs;;2016
+967;58;["ST"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+968;58;["ST"];biogas;electricity;capacity;generator;combustion engine;0.23;GW;;"{""value"": ""aggregated""}";urbs;;2016
+969;58;["ST"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+970;58;["ST"];biomass;electricity;capacity;generator;steam;0.44;GW;;"{""value"": ""aggregated""}";urbs;;2016
+971;58;["ST"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+972;58;["ST"];light oil;electricity;capacity;chp;gas;0.00298;GW;;"{""value"": ""aggregated""}";urbs;;2016
+973;58;["ST"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+974;58;["ST"];light oil;electricity;capacity;generator;gas;0.18184;GW;;"{""value"": ""aggregated""}";urbs;;2016
+975;58;["ST"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+976;58;["ST"];lignite;electricity;capacity;chp;steam;1.07198;GW;;"{""value"": ""aggregated""}";urbs;;2016
+977;58;["ST"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+978;58;["ST"];natural gas;electricity;capacity;chp;combined cycle;0.35138;GW;;"{""value"": ""aggregated""}";urbs;;2016
+979;58;["ST"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+980;58;["ST"];natural gas;electricity;capacity;chp;combustion engine;0.07736;GW;;"{""value"": ""aggregated""}";urbs;;2016
+981;58;["ST"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+982;58;["ST"];natural gas;electricity;capacity;chp;gas;0.24948;GW;;"{""value"": ""aggregated""}";urbs;;2016
+983;58;["ST"];natural gas;electricity;added capacity;generator;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+984;58;["ST"];natural gas;electricity;capacity;generator;combined cycle;1.00E-05;GW;;"{""value"": ""aggregated""}";urbs;;2016
+985;58;["ST"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+986;58;["ST"];natural gas;electricity;capacity;generator;combustion engine;0.00954;GW;;"{""value"": ""aggregated""}";urbs;;2016
+987;58;["ST"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+988;58;["ST"];natural gas;electricity;capacity;generator;gas;0.09048;GW;;"{""value"": ""aggregated""}";urbs;;2016
+989;58;["ST"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+990;58;["ST"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.2827;GW;;"{""value"": ""aggregated""}";urbs;;2016
+991;58;["ST"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+992;58;["ST"];solar radiation;electricity;capacity;photovoltaics;utility;1.49697;GW;;"{""value"": ""aggregated""}";urbs;;2016
+993;58;["ST"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+994;58;["ST"];waste;electricity;capacity;chp;steam;0.12544;GW;;"{""value"": ""aggregated""}";urbs;;2016
+995;58;["ST"];waste;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+996;58;["ST"];waste;electricity;capacity;generator;steam;0.04324;GW;;"{""value"": ""aggregated""}";urbs;;2016
+997;58;["ST"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+998;58;["ST"];water;electricity;capacity;hydro turbine;run-of-river;0.02824;GW;;"{""value"": ""aggregated""}";urbs;;2016
+999;58;["ST"];air;electricity;electricity generation;wind turbine;onshore;6078.344272;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1000;58;["ST"];air;electricity;primary energy consumption;wind turbine;onshore;6078344.272;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1001;58;["ST"];biomass;electricity;electricity generation;generator;steam;683.1947532;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1002;58;["ST"];biomass;electricity;primary energy consumption;generator;steam;4554631.688;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1003;58;["ST"];lignite;electricity;electricity generation;chp;steam;9143.023006;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1004;58;["ST"];lignite;electricity;emissions;chp;steam;0.007781296;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+1005;58;["ST"];lignite;electricity;primary energy consumption;chp;steam;19453240.44;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1006;58;["ST"];natural gas;electricity;electricity generation;chp;combined cycle;0.212695274;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1007;58;["ST"];natural gas;electricity;emissions;chp;combined cycle;8.51E-08;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+1008;58;["ST"];natural gas;electricity;primary energy consumption;chp;combined cycle;425.390548;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1009;58;["ST"];natural gas;electricity;electricity generation;generator;combined cycle;0.00492;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1010;58;["ST"];natural gas;electricity;emissions;generator;combined cycle;1.70E-09;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+1011;58;["ST"];natural gas;electricity;primary energy consumption;generator;combined cycle;8.482758621;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1012;58;["ST"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;308.4943961;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1013;58;["ST"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;308494.3961;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1014;58;["ST"];solar radiation;electricity;electricity generation;photovoltaics;utility;1633.558034;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1015;58;["ST"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;1633558.034;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1016;58;["ST"];waste;electricity;electricity generation;generator;steam;21.94417536;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1017;58;["ST"];waste;electricity;emissions;generator;steam;2.59E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+1018;58;["ST"];waste;electricity;primary energy consumption;generator;steam;78372.05485;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1019;58;["ST"];water;electricity;electricity generation;hydro turbine;run-of-river;97.44185426;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1020;58;["ST"];water;electricity;primary energy consumption;hydro turbine;run-of-river;97441.85426;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1021;58;["ST"];electricity;electricity;input energy;storage;all;21.04299919;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1022;58;["ST"];electricity;electricity;output energy;storage;all;15.9250061;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1023;58;["ST"];electricity;electricity;losses;storage;all;5.117993089;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1024;58;["ST", "NI"];electricity;electricity;energy flow;transmission;HVAC;2889.447985;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1025;58;["ST", "BB"];electricity;electricity;losses;transmission;HVAC;2548.928276;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1026;58;["ST", "NI"];electricity;electricity;losses;transmission;HVAC;97057.18014;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1027;58;["TH"];air;electricity;added capacity;wind turbine;onshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1028;58;["TH"];air;electricity;capacity;wind turbine;onshore;1.20056;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1029;58;["TH"];biogas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1030;58;["TH"];biogas;electricity;capacity;generator;combustion engine;0.127;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1031;58;["TH"];biomass;electricity;added capacity;generator;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1032;58;["TH"];biomass;electricity;capacity;generator;steam;0.248;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1033;58;["TH"];light oil;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1034;58;["TH"];light oil;electricity;capacity;chp;gas;0.00114;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1035;58;["TH"];light oil;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1036;58;["TH"];light oil;electricity;capacity;generator;gas;0.03543;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1037;58;["TH"];lignite;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1038;58;["TH"];lignite;electricity;capacity;chp;steam;0.00173;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1039;58;["TH"];natural gas;electricity;added capacity;chp;combined cycle;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1040;58;["TH"];natural gas;electricity;capacity;chp;combined cycle;0.16563;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1041;58;["TH"];natural gas;electricity;added capacity;chp;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1042;58;["TH"];natural gas;electricity;capacity;chp;combustion engine;0.06166;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1043;58;["TH"];natural gas;electricity;added capacity;chp;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1044;58;["TH"];natural gas;electricity;capacity;chp;gas;0.16599;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1045;58;["TH"];natural gas;electricity;added capacity;generator;combustion engine;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1046;58;["TH"];natural gas;electricity;capacity;generator;combustion engine;0.00825;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1047;58;["TH"];natural gas;electricity;added capacity;generator;gas;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1048;58;["TH"];natural gas;electricity;capacity;generator;gas;0.00029;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1049;58;["TH"];solar radiation;electricity;added capacity;photovoltaics;rooftop;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1050;58;["TH"];solar radiation;electricity;capacity;photovoltaics;rooftop;0.26654;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1051;58;["TH"];solar radiation;electricity;added capacity;photovoltaics;utility;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1052;58;["TH"];solar radiation;electricity;capacity;photovoltaics;utility;0.81617;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1053;58;["TH"];waste;electricity;added capacity;chp;steam;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1054;58;["TH"];waste;electricity;capacity;chp;steam;0.01772;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1055;58;["TH"];water;electricity;added capacity;hydro turbine;run-of-river;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1056;58;["TH"];water;electricity;capacity;hydro turbine;run-of-river;0.03196;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1057;58;["TH"];air;electricity;electricity generation;wind turbine;onshore;1525.628308;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1058;58;["TH"];air;electricity;primary energy consumption;wind turbine;onshore;1525628.308;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1059;58;["TH"];biogas;electricity;electricity generation;generator;combustion engine;701.9982785;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1060;58;["TH"];biogas;electricity;primary energy consumption;generator;combustion engine;1671424.473;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1061;58;["TH"];biomass;electricity;electricity generation;generator;steam;1154.536454;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1062;58;["TH"];biomass;electricity;primary energy consumption;generator;steam;7696909.696;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1063;58;["TH"];lignite;electricity;electricity generation;chp;steam;15.15653;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1064;58;["TH"];lignite;electricity;emissions;chp;steam;1.29E-05;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+1065;58;["TH"];lignite;electricity;primary energy consumption;chp;steam;32247.93617;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1066;58;["TH"];natural gas;electricity;electricity generation;chp;combined cycle;1.6563;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1067;58;["TH"];natural gas;electricity;emissions;chp;combined cycle;6.63E-07;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+1068;58;["TH"];natural gas;electricity;primary energy consumption;chp;combined cycle;3312.6;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1069;58;["TH"];solar radiation;electricity;electricity generation;photovoltaics;rooftop;295.5568771;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1070;58;["TH"];solar radiation;electricity;primary energy consumption;photovoltaics;rooftop;295556.8771;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1071;58;["TH"];solar radiation;electricity;electricity generation;photovoltaics;utility;905.0223471;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1072;58;["TH"];solar radiation;electricity;primary energy consumption;photovoltaics;utility;905022.3471;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1073;58;["TH"];water;electricity;electricity generation;hydro turbine;run-of-river;189.9203614;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1074;58;["TH"];water;electricity;primary energy consumption;hydro turbine;run-of-river;189920.3614;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1075;58;["TH"];electricity;electricity;input energy;storage;all;142.0222112;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1076;58;["TH"];electricity;electricity;output energy;storage;all;106.5166584;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1077;58;["TH"];electricity;electricity;losses;storage;all;35.5055528;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1078;58;["TH", "BY"];electricity;electricity;energy flow;transmission;HVAC;12414.89171;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1079;58;["TH", "HE"];electricity;electricity;energy flow;transmission;HVAC;4724.239946;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1080;58;["TH", "BY"];electricity;electricity;losses;transmission;HVAC;373511.4174;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1081;58;["TH", "HE"];electricity;electricity;losses;transmission;HVAC;141855.6131;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1082;58;["Baltic"];air;electricity;added capacity;wind turbine;offshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1083;58;["Baltic"];air;electricity;capacity;wind turbine;offshore;0.3388;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1084;58;["Baltic"];air;electricity;electricity generation;wind turbine;offshore;1173.977778;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1085;58;["Baltic"];air;electricity;primary energy consumption;wind turbine;offshore;1173977.778;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1086;58;["Baltic"];electricity;electricity;input energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1087;58;["Baltic"];electricity;electricity;output energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1088;58;["Baltic"];electricity;electricity;losses;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1089;58;["Baltic", "MV"];electricity;electricity;energy flow;transmission;HVAC;1125.018124;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1090;58;["Baltic", "MV"];electricity;electricity;losses;transmission;HVAC;33750.54373;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1091;58;["North"];air;electricity;added capacity;wind turbine;offshore;0;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1092;58;["North"];air;electricity;capacity;wind turbine;offshore;2.9561;GW;;"{""value"": ""aggregated""}";urbs;;2016
+1093;58;["North"];air;electricity;electricity generation;wind turbine;offshore;14691.56208;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1094;58;["North"];air;electricity;primary energy consumption;wind turbine;offshore;14691562.08;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1095;58;["North"];electricity;electricity;input energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1096;58;["North"];electricity;electricity;output energy;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1097;58;["North"];electricity;electricity;losses;storage;all;0;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1098;58;["North", "NI"];electricity;electricity;energy flow;transmission;HVAC;14691.56208;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1099;58;["North", "NI"];electricity;electricity;losses;transmission;HVAC;440746.8624;MWh/a;;"{""value"": ""aggregated""}";urbs;;2016
+1100;58;["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH", "Baltic", "North"];ALL;co2;emissions;ALL;ALL;0.278600732;Gt/a;;"{""value"": ""aggregated""}";urbs;;2016
+1101;58;["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH", "Baltic", "North"];ALL;ALL;system cost;ALL;ALL;2.49E+10;€/a;;"{""value"": ""aggregated""}";urbs;;2016
+1102;58;["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH", "Baltic", "North"];ALL;ALL;investment cost;ALL;ALL;0;€/a;;"{""value"": ""aggregated""}";urbs;;2016
+1103;58;["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH", "Baltic", "North"];ALL;ALL;fixed cost;ALL;ALL;7710671219;€/a;;"{""value"": ""aggregated""}";urbs;;2016
+1104;58;["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH", "Baltic", "North"];ALL;ALL;variable cost;ALL;ALL;1.72E+10;€/a;;"{""value"": ""aggregated""}";urbs;;2016
+1105;58;["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH", "Baltic", "North"];ALL;ALL;curtailment;ALL;ALL;72.52368755;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1106;58;["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH", "Baltic", "North"];ALL;ALL;slack;ALL;ALL;154.8631378;GWh;;"{""value"": ""aggregated""}";urbs;;2016
+1107;58;["BB"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1108;58;["BB"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1109;58;["BB"];electricity;electricity;capacity;storage;battery;0.05874;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1110;58;["BB"];electricity;electricity;power capacity;storage;battery;0.0178;GW;;"{""value"": ""scalar""}";urbs;;2016
+1111;58;["BE"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1112;58;["BE"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1113;58;["BE"];electricity;electricity;capacity;storage;battery;0.01056;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1114;58;["BE"];electricity;electricity;power capacity;storage;battery;0.0032;GW;;"{""value"": ""scalar""}";urbs;;2016
+1115;58;["BW"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1116;58;["BW"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1117;58;["BW"];electricity;electricity;capacity;storage;pumped;10.8634;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1118;58;["BW"];electricity;electricity;power capacity;storage;pumped;1.873;GW;;"{""value"": ""scalar""}";urbs;;2016
+1119;58;["BY"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1120;58;["BY"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1121;58;["BY"];electricity;electricity;capacity;storage;battery;0.00429;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1122;58;["BY"];electricity;electricity;power capacity;storage;battery;0.0013;GW;;"{""value"": ""scalar""}";urbs;;2016
+1123;58;["BY"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1124;58;["BY"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1125;58;["BY"];electricity;electricity;capacity;storage;pumped;2.2214;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1126;58;["BY"];electricity;electricity;power capacity;storage;pumped;0.383;GW;;"{""value"": ""scalar""}";urbs;;2016
+1127;58;["HE"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1128;58;["HE"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1129;58;["HE"];electricity;electricity;capacity;storage;pumped;3.625;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1130;58;["HE"];electricity;electricity;power capacity;storage;pumped;0.625;GW;;"{""value"": ""scalar""}";urbs;;2016
+1131;58;["MV"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1132;58;["MV"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1133;58;["MV"];electricity;electricity;capacity;storage;battery;0.0165;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1134;58;["MV"];electricity;electricity;power capacity;storage;battery;0.005;GW;;"{""value"": ""scalar""}";urbs;;2016
+1135;58;["NI"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1136;58;["NI"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1137;58;["NI"];electricity;electricity;capacity;storage;pumped;1.276;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1138;58;["NI"];electricity;electricity;power capacity;storage;pumped;0.22;GW;;"{""value"": ""scalar""}";urbs;;2016
+1139;58;["NW"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1140;58;["NW"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1141;58;["NW"];electricity;electricity;capacity;storage;battery;0.000825;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1142;58;["NW"];electricity;electricity;power capacity;storage;battery;0.00025;GW;;"{""value"": ""scalar""}";urbs;;2016
+1143;58;["NW"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1144;58;["NW"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1145;58;["NW"];electricity;electricity;capacity;storage;pumped;1.7574;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1146;58;["NW"];electricity;electricity;power capacity;storage;pumped;0.303;GW;;"{""value"": ""scalar""}";urbs;;2016
+1147;58;["SH"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1148;58;["SH"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1149;58;["SH"];electricity;electricity;capacity;storage;battery;0.01188;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1150;58;["SH"];electricity;electricity;power capacity;storage;battery;0.0036;GW;;"{""value"": ""scalar""}";urbs;;2016
+1151;58;["SH"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1152;58;["SH"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1153;58;["SH"];electricity;electricity;capacity;storage;pumped;0.69078;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1154;58;["SH"];electricity;electricity;power capacity;storage;pumped;0.1191;GW;;"{""value"": ""scalar""}";urbs;;2016
+1155;58;["SL"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1156;58;["SL"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1157;58;["SL"];electricity;electricity;capacity;storage;battery;0.0033;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1158;58;["SL"];electricity;electricity;power capacity;storage;battery;0.001;GW;;"{""value"": ""scalar""}";urbs;;2016
+1159;58;["SN"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1160;58;["SN"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1161;58;["SN"];electricity;electricity;capacity;storage;battery;0.0066;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1162;58;["SN"];electricity;electricity;power capacity;storage;battery;0.002;GW;;"{""value"": ""scalar""}";urbs;;2016
+1163;58;["SN"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1164;58;["SN"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1165;58;["SN"];electricity;electricity;capacity;storage;pumped;6.293;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1166;58;["SN"];electricity;electricity;power capacity;storage;pumped;1.085;GW;;"{""value"": ""scalar""}";urbs;;2016
+1167;58;["ST"];electricity;electricity;added capacity;storage;battery;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1168;58;["ST"];electricity;electricity;added power capacity;storage;battery;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1169;58;["ST"];electricity;electricity;capacity;storage;battery;0.0033;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1170;58;["ST"];electricity;electricity;power capacity;storage;battery;0.001;GW;;"{""value"": ""scalar""}";urbs;;2016
+1171;58;["ST"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1172;58;["ST"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1173;58;["ST"];electricity;electricity;capacity;storage;pumped;0.46226;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1174;58;["ST"];electricity;electricity;power capacity;storage;pumped;0.0797;GW;;"{""value"": ""scalar""}";urbs;;2016
+1175;58;["TH"];electricity;electricity;added capacity;storage;pumped;0;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1176;58;["TH"];electricity;electricity;added power capacity;storage;pumped;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1177;58;["TH"];electricity;electricity;capacity;storage;pumped;8.75452;GWh;;"{""value"": ""scalar""}";urbs;;2016
+1178;58;["TH"];electricity;electricity;power capacity;storage;pumped;1.5094;GW;;"{""value"": ""scalar""}";urbs;;2016
+1179;58;["BB", "BE"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1180;58;["BB", "BE"];electricity;electricity;capacity;transmission;hvac;4.122131016;GW;;"{""value"": ""scalar""}";urbs;;2016
+1195;58;["BB", "MV"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1196;58;["BB", "MV"];electricity;electricity;capacity;transmission;hvac;1.115578069;GW;;"{""value"": ""scalar""}";urbs;;2016
+1211;58;["BB", "SN"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1212;58;["BB", "SN"];electricity;electricity;capacity;transmission;hvac;6.49018728;GW;;"{""value"": ""scalar""}";urbs;;2016
+1215;58;["BB", "ST"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1216;58;["BB", "ST"];electricity;electricity;capacity;transmission;hvac;2.090890756;GW;;"{""value"": ""scalar""}";urbs;;2016
+1221;58;["BE", "BB"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1227;58;["BW", "BY"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1228;58;["BW", "BY"];electricity;electricity;capacity;transmission;hvac;4.163235437;GW;;"{""value"": ""scalar""}";urbs;;2016
+1229;58;["BW", "HE"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1230;58;["BW", "HE"];electricity;electricity;capacity;transmission;hvac;0.980331959;GW;;"{""value"": ""scalar""}";urbs;;2016
+1231;58;["BW", "RP"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1232;58;["BW", "RP"];electricity;electricity;capacity;transmission;hvac;1.310039874;GW;;"{""value"": ""scalar""}";urbs;;2016
+1235;58;["BY", "BW"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1237;58;["BY", "HE"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1238;58;["BY", "HE"];electricity;electricity;capacity;transmission;hvac;2.344316305;GW;;"{""value"": ""scalar""}";urbs;;2016
+1239;58;["BY", "TH"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1240;58;["BY", "TH"];electricity;electricity;capacity;transmission;hvac;2.141640048;GW;;"{""value"": ""scalar""}";urbs;;2016
+1243;58;["Baltic", "MV"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1244;58;["Baltic", "MV"];electricity;electricity;capacity;transmission;hvac;0.6;GW;;"{""value"": ""scalar""}";urbs;;2016
+1247;58;["HB", "NI"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1248;58;["HB", "NI"];electricity;electricity;capacity;transmission;hvac;2.984953864;GW;;"{""value"": ""scalar""}";urbs;;2016
+1251;58;["HE", "BW"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1253;58;["HE", "BY"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1255;58;["HE", "NI"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1256;58;["HE", "NI"];electricity;electricity;capacity;transmission;hvac;0.8;GW;;"{""value"": ""scalar""}";urbs;;2016
+1257;58;["HE", "NW"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1258;58;["HE", "NW"];electricity;electricity;capacity;transmission;hvac;6.276197318;GW;;"{""value"": ""scalar""}";urbs;;2016
+1259;58;["HE", "RP"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1260;58;["HE", "RP"];electricity;electricity;capacity;transmission;hvac;6.85915471;GW;;"{""value"": ""scalar""}";urbs;;2016
+1261;58;["HE", "TH"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1262;58;["HE", "TH"];electricity;electricity;capacity;transmission;hvac;1.804070202;GW;;"{""value"": ""scalar""}";urbs;;2016
+1265;58;["HH", "NI"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1266;58;["HH", "NI"];electricity;electricity;capacity;transmission;hvac;3.53454403;GW;;"{""value"": ""scalar""}";urbs;;2016
+1267;58;["HH", "SH"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1268;58;["HH", "SH"];electricity;electricity;capacity;transmission;hvac;3.848996098;GW;;"{""value"": ""scalar""}";urbs;;2016
+1269;58;["MV", "BB"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1273;58;["MV", "Baltic"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1275;58;["MV", "SH"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1276;58;["MV", "SH"];electricity;electricity;capacity;transmission;hvac;0.663484424;GW;;"{""value"": ""scalar""}";urbs;;2016
+1279;58;["NI", "HB"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1281;58;["NI", "HE"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1283;58;["NI", "HH"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1285;58;["NI", "NW"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1286;58;["NI", "NW"];electricity;electricity;capacity;transmission;hvac;7.935304514;GW;;"{""value"": ""scalar""}";urbs;;2016
+1287;58;["NI", "North"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1288;58;["NI", "North"];electricity;electricity;capacity;transmission;hvac;5.309;GW;;"{""value"": ""scalar""}";urbs;;2016
+1289;58;["NI", "SH"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1290;58;["NI", "SH"];electricity;electricity;capacity;transmission;hvac;2.551428315;GW;;"{""value"": ""scalar""}";urbs;;2016
+1291;58;["NI", "ST"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1292;58;["NI", "ST"];electricity;electricity;capacity;transmission;hvac;1.049138891;GW;;"{""value"": ""scalar""}";urbs;;2016
+1295;58;["NW", "HE"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1297;58;["NW", "NI"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1299;58;["NW", "RP"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1300;58;["NW", "RP"];electricity;electricity;capacity;transmission;hvac;7.19694439;GW;;"{""value"": ""scalar""}";urbs;;2016
+1303;58;["North", "NI"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1307;58;["RP", "BW"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1309;58;["RP", "HE"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1311;58;["RP", "NW"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1313;58;["RP", "SL"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1314;58;["RP", "SL"];electricity;electricity;capacity;transmission;hvac;2.502782554;GW;;"{""value"": ""scalar""}";urbs;;2016
+1317;58;["SH", "HH"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1319;58;["SH", "MV"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1321;58;["SH", "NI"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1325;58;["SL", "RP"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1327;58;["SN", "BB"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1331;58;["SN", "TH"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1332;58;["SN", "TH"];electricity;electricity;capacity;transmission;hvac;3.8067754;GW;;"{""value"": ""scalar""}";urbs;;2016
+1333;58;["ST", "BB"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1337;58;["ST", "NI"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1341;58;["TH", "BY"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1343;58;["TH", "HE"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1345;58;["TH", "SN"];electricity;electricity;added capacity;transmission;hvac;0;GW;;"{""value"": ""scalar""}";urbs;;2016
+1347;58;["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH", "Baltic", "North"];ALL;ALL;renewable generation;ALL;ALL;142905.1489;GWh;;"{""value"": ""aggregated""}";urbs;;2016
