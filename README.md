@@ -9,10 +9,13 @@ urbs is a [linear programming](https://en.wikipedia.org/wiki/Linear_programming)
 
 This repository contains four folders:
 
-00 Input connector: This folder containts the Jupyter notebook that converts OED (OpenEnergyDatabase) input data into the Urbs input data
-01a Base models: This folder contains all input files, output files and running urbs model for the base scenarios
-01b Variation models:  This folder contains all input files, output files and running urbs model for the variation scenarios
-02 Output connector:  This folder containts the Jupyter notebook that converts urbs outputs into OED outputs
+  * 00 Input connector: This folder containts the Jupyter notebook that converts OED (OpenEnergyDatabase) input data into the Urbs input data
+
+  * 01a Base models: This folder contains all input files, output files and running urbs model for the base scenarios
+
+  * 01b Variation models:  This folder contains all input files, output files and running urbs model for the variation scenarios
+
+  * 02 Output connector:  This folder containts the Jupyter notebook that converts urbs outputs into OED outputs
 
 The running versions of the urbs module is resides within the "runnable_model" folder for each scenario (e.g. the directory "/01a Base models/2016/runnable_model/ for the Base 2016 scenario). The following README file gives an overview on the urbs module itself, and a more detailed documentation can be accessed in https://urbs.readthedocs.io/en/latest/?badge=latest. 
 
