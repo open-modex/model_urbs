@@ -7,7 +7,7 @@ urbs is a [linear programming](https://en.wikipedia.org/wiki/Linear_programming)
 
 ## How to use this repository?
 
-This repository containts four folders:
+This repository contains four folders:
 
 00 Input connector: This folder containts the Jupyter notebook that converts OED (OpenEnergyDatabase) input data into the Urbs input data
 01a Base models: This folder contains all input files, output files and running urbs model for the base scenarios
